@@ -295,6 +295,8 @@ def page_html(*, title, description, path, body, jsonld=None, extra_head=""):
         "{{extra_head}}": extra_head,
         "{{body}}": body,
         "{{year}}": str(dt.date.today().year),
+        "{{contact_link}}": (f' &middot; <a href="mailto:{esc(CONFIG["contact_email"])}">Contact</a>'
+                             if CONFIG.get("contact_email") else ""),
     }
     for k, v in repl.items():
         out = out.replace(k, v)
