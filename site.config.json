@@ -1,0 +1,98 @@
+{
+  "site_name": "Storage Rent Watch",
+  "tagline": "Plain-English self-storage renter rules: rent increases, late fees, lien sales and auctions, state by state.",
+  "base_url": "https://funnyfarm4.github.io/storage-rent-watch",
+  "base_path": "/storage-rent-watch/",
+  "language": "en-US",
+  "contact_email": "",
+  "output_dir": "docs",
+  "states": {
+    "IN": "Indiana",
+    "OH": "Ohio"
+  },
+  "affiliates": {
+    "sparefoot": {
+      "name": "SpareFoot",
+      "url": "https://www.sparefoot.com/",
+      "tracking_url": "",
+      "network": "FlexOffers",
+      "payout_note": "$36 per confirmed move-in (reservation leads excluded), 30-day cookie, per FlexOffers program page checked 2026-10-27",
+      "blurb": "Storage-unit marketplace. Compare nearby facilities and reserve online."
+    },
+    "storagecom": {
+      "name": "Storage.com",
+      "url": "https://www.storage.com/",
+      "tracking_url": "",
+      "network": "FlexOffers",
+      "payout_note": "$32 per confirmed move-in (reservation leads excluded), 30-day cookie, per FlexOffers program page checked 2026-10-27",
+      "blurb": "Browse and compare self-storage facilities and units near you."
+    },
+    "neighbor": {
+      "name": "Neighbor",
+      "url": "https://www.neighbor.com/",
+      "tracking_url": "",
+      "network": "Impact",
+      "payout_note": "$50 per approved renter and $50 per published host listing, per host.neighbor.com/affiliate checked 2026-10-27",
+      "blurb": "Peer-to-peer storage: rent a garage, basement or driveway space from a local host."
+    }
+  },
+  "legal_help": {
+    "checked": "2026-10-27",
+    "national": [
+      {
+        "name": "LawHelp.org",
+        "url": "https://www.lawhelp.org/",
+        "blurb": "Find free legal aid, self-help information and free legal forms from nonprofit legal aid providers in your state."
+      },
+      {
+        "name": "Legal Services Corporation: find legal aid near you",
+        "url": "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help",
+        "blurb": "Enter your address to find the LSC-funded civil legal aid organization that serves your area."
+      },
+      {
+        "name": "ABA Free Legal Answers",
+        "url": "https://www.abafreelegalanswers.org/",
+        "blurb": "If you qualify, ask volunteer lawyers a civil legal question online and get an answer by email. Available in participating states only.",
+        "aba": true
+      }
+    ],
+    "states": {
+      "IN": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Indiana Legal Help",
+            "url": "https://indianalegalhelp.org/",
+            "blurb": "Statewide portal: find legal services by ZIP or county, free legal clinics, and Indiana court forms."
+          },
+          {
+            "name": "Indiana Legal Services",
+            "url": "https://www.indianalegalservices.org/",
+            "blurb": "Nonprofit law firm giving free civil legal help to eligible low-income Hoosiers in all 92 counties. Call 317-631-9410."
+          }
+        ]
+      },
+      "OH": {
+        "aba_free_legal_answers": false,
+        "links": [
+          {
+            "name": "Ohio Legal Help",
+            "url": "https://www.ohiolegalhelp.org/",
+            "blurb": "Free legal information, how-to guides, court forms and connections to organizations that give legal advice and representation."
+          }
+        ]
+      }
+    }
+  },
+  "_notes": {
+    "base_url": "Full public root URL, no trailing slash. Used for canonicals, sitemap.xml, robots.txt and JSON-LD.",
+    "tracking_url": "After an affiliate program approves us, paste the full tracking link here. Every element with data-affiliate=\"<key>\" gets this href on the next build. Leave empty to use the plain public url.",
+    "states": "Two-letter code -> full name. Every page's \"state\" must be listed here. The state name's slug is the state hub URL (/indiana/).",
+    "legal_help": "Free or low-cost legal help. NOT paid partners: never put tracking links here. Verify every URL loads on the day you add it; drop any that don't. Add each new state's statewide legal aid site when its first page is published. aba_free_legal_answers = whether the state appears on abafreelegalanswers.org's participating-state list.",
+    "base_path": "URL path the site is served under. Every root-relative href/src is prefixed with it at build time.",
+    "external_links_verified_manually": "URLs that block scripted checks but were confirmed working another way (WebFetch or a browser). check.py --external reports them as WARN instead of ERR. Re-confirm them when you touch a page that uses them."
+  },
+  "external_links_verified_manually": {
+    "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it."
+  }
+}

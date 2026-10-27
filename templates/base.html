@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:site_name" content="{{site_name}}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="/style.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+{{extra_head}}
+{{jsonld}}</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head"><div class="wrap">
+<a class="brand" href="/"><span class="logo" aria-hidden="true">&#128230;</span> {{site_name}}</a>
+<nav aria-label="Site"><a href="/">States</a><a href="/storage-rent-increase/">Rent went up?</a><a href="/free-legal-help/">Free legal help</a><a href="/about/">About</a></nav>
+</div></header>
+<main id="main" class="wrap">
+{{body}}
+</main>
+<footer class="site-foot"><div class="wrap">
+<p>{{site_name}}: {{tagline}}</p>
+<p>We are not lawyers and this is not legal advice. We are not affiliated with any storage company, government agency or court. Laws change, so check the linked statute and talk to a lawyer or legal aid office about your situation.</p>
+<p><a href="/about/">About &amp; how we research</a> &middot; <a href="/disclosure/">Disclosure &amp; privacy</a> &middot; <a href="/free-legal-help/">Free legal help</a> &middot; <a href="/sitemap.xml">Sitemap</a></p>
+<p class="small">&copy; {{year}} {{site_name}}. No tracking scripts, no cookies.</p>
+</div></footer>
+</body>
+</html>

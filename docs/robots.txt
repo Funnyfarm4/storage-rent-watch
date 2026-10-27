@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://funnyfarm4.github.io/storage-rent-watch/sitemap.xml
