@@ -8,7 +8,8 @@
   "output_dir": "docs",
   "states": {
     "IN": "Indiana",
-    "OH": "Ohio"
+    "OH": "Ohio",
+    "TX": "Texas"
   },
   "affiliates": {
     "sparefoot": {
@@ -79,6 +80,31 @@
             "name": "Ohio Legal Help",
             "url": "https://www.ohiolegalhelp.org/",
             "blurb": "Free legal information, how-to guides, court forms and connections to organizations that give legal advice and representation."
+          }
+        ]
+      },
+      "TX": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "TexasLawHelp.org",
+            "url": "https://texaslawhelp.org/",
+            "blurb": "Free, reliable Texas legal information, guides and court forms, plus a calendar of free legal clinics."
+          },
+          {
+            "name": "Lone Star Legal Aid",
+            "url": "https://www.lonestarlegal.org/",
+            "blurb": "Nonprofit civil legal aid for eligible low-income Texans. Check its site for the counties it serves."
+          },
+          {
+            "name": "Texas RioGrande Legal Aid",
+            "url": "https://www.trla.org/",
+            "blurb": "Free civil legal services for eligible Texans. Check its site for the counties it serves."
+          },
+          {
+            "name": "Legal Aid of NorthWest Texas",
+            "url": "https://www.lanwt.org/",
+            "blurb": "Free civil legal aid for eligible residents of its North and West Texas service area."
           }
         ]
       }

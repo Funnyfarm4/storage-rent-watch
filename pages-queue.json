@@ -28,6 +28,11 @@
    "url_path": "/free-legal-help/",
    "published": "2026-10-27",
    "note": "generated from site.config.json legal_help"
+  },
+  {
+   "url_path": "/texas/storage-auction-rules/",
+   "published": "2026-10-27",
+   "statute": "Tex. Prop. Code ch. 59"
   }
  ],
  "queue": [
@@ -43,7 +48,9 @@
    "start_with_statute": "Tex. Prop. Code ch. 59 (Self-Service Storage Facilities)",
    "official_text_at": "statutes.capitol.texas.gov",
    "legal_aid_to_verify": "TexasLawHelp.org",
-   "status": "queued"
+   "status": "published",
+   "published_url": "https://funnyfarm4.github.io/storage-rent-watch/texas/storage-auction-rules/",
+   "note": "Ch. 59 text read from statutes.capitol.texas.gov via WebFetch (curl gets a JS shell); 59.044 headings dropped there, so its text was read on Justia. Ch. 59 has no late-fee cap or rent-increase notice section. Excess proceeds go to lessor after 2 years, not to the Comptroller. Legal aid regions for Lone Star/TRLA/LANWT left generic (not verified)."
   },
   {
    "n": 2,

@@ -37,6 +37,7 @@
   "updated": "2026-10-27",
   "last_checked": "2026-10-27",
   "sources": [
+    {"id": "tx-ch", "publisher": "Texas Legislature, Texas Constitution and Statutes", "title": "Texas Property Code Chapter 59: Self-Service Storage Facility Liens", "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.59.htm", "checked": "2026-10-27"},
     {
       "id": "in-16",
       "publisher": "Justia (Indiana Code text)",
@@ -140,7 +141,7 @@ State storage laws mostly cover the facility's lien, late fees and lien sales, a
 Some states set a minimum notice period for changing a storage rental agreement:
 
 - **California:** the owner may change the terms, including rent, only after **at least 30 days' written notice** by personal delivery, first-class mail to your last known address, or agreed email. The new terms take effect after 30 days if you keep storing there [[ca-21715]].
-- **Indiana** and **Ohio:** their storage chapters don't set a rent-increase notice period, so your agreement controls [[in-ch]] [[oh-ch]].
+- **Indiana**, **Ohio** and **Texas:** their storage chapters don't set a rent-increase notice period, so your agreement controls [[in-ch]] [[oh-ch]] [[tx-ch]]. See [Texas storage auction rules](/texas/storage-auction-rules/).
 
 We're adding more states. Check your state's page from the [home page](/).
 
