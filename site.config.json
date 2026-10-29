@@ -9,7 +9,8 @@
   "states": {
     "IN": "Indiana",
     "OH": "Ohio",
-    "TX": "Texas"
+    "TX": "Texas",
+    "CA": "California"
   },
   "affiliates": {
     "sparefoot": {
@@ -38,7 +39,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-10-27",
+    "checked": "2026-10-28",
     "national": [
       {
         "name": "LawHelp.org",
@@ -107,6 +108,26 @@
             "blurb": "Free civil legal aid for eligible residents of its North and West Texas service area."
           }
         ]
+      },
+      "CA": {
+        "aba_free_legal_answers": false,
+        "links": [
+          {
+            "name": "LawHelpCA.org",
+            "url": "https://www.lawhelpca.org/",
+            "blurb": "Find free and low-cost legal aid near you in California, plus self-help guides on housing and consumer problems."
+          },
+          {
+            "name": "California Courts Self-Help Guide",
+            "url": "https://selfhelp.courts.ca.gov/",
+            "blurb": "The California courts' free self-help guide, with court forms, small claims help and links to free or low-cost lawyers."
+          },
+          {
+            "name": "State Bar of California: Free Legal Help",
+            "url": "https://www.calbar.ca.gov/public/legal-resources/free-legal-help",
+            "blurb": "The State Bar's page for finding the legal aid organizations it funds for Californians with low and moderate incomes."
+          }
+        ]
       }
     }
   },
@@ -119,6 +140,7 @@
     "external_links_verified_manually": "URLs that block scripted checks but were confirmed working another way (WebFetch or a browser). check.py --external reports them as WARN instead of ERR. Re-confirm them when you touch a page that uses them."
   },
   "external_links_verified_manually": {
-    "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it."
+    "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it.",
+    "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it."
   }
 }
