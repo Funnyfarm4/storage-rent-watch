@@ -10,7 +10,8 @@
     "IN": "Indiana",
     "OH": "Ohio",
     "TX": "Texas",
-    "CA": "California"
+    "CA": "California",
+    "FL": "Florida"
   },
   "affiliates": {
     "sparefoot": {
@@ -39,7 +40,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-10-28",
+    "checked": "2026-10-29",
     "national": [
       {
         "name": "LawHelp.org",
@@ -126,6 +127,21 @@
             "name": "State Bar of California: Free Legal Help",
             "url": "https://www.calbar.ca.gov/public/legal-resources/free-legal-help",
             "blurb": "The State Bar's page for finding the legal aid organizations it funds for Californians with low and moderate incomes."
+          }
+        ]
+      },
+      "FL": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Florida Law Help",
+            "url": "https://www.floridalawhelp.org/",
+            "blurb": "Florida's statewide legal aid site: find a free legal aid provider, apply for help, and read guides on housing, debt and consumer problems."
+          },
+          {
+            "name": "The Florida Bar: Pro Bono & Legal Aid",
+            "url": "https://www.floridabar.org/public/probono/",
+            "blurb": "The Florida Bar's page for finding free legal aid and pro bono help, plus its Lawyer Referral Service."
           }
         ]
       }

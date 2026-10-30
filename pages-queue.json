@@ -38,6 +38,11 @@
       "url_path": "/california/storage-auction-rules/",
       "published": "2026-10-28",
       "statute": "Cal. Bus. & Prof. Code 21700-21716"
+    },
+    {
+      "url_path": "/florida/storage-auction-rules/",
+      "published": "2026-10-29",
+      "statute": "Fla. Stat. 83.801-83.809"
     }
   ],
   "queue": [
@@ -85,7 +90,9 @@
       "start_with_statute": "Fla. Stat. §§ 83.801-83.809 (Self-Storage Facility Act)",
       "official_text_at": "leg.state.fl.us / flsenate.gov",
       "legal_aid_to_verify": "FloridaLawHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/florida/storage-auction-rules/",
+      "note": "Verified 2026-10-29 from leg.state.fl.us (2026 Fla. Stat.). Act has no section 83.802/83.804/83.807. Florida AG site (myfloridalegal.com) returned 403 to curl, so no AG complaint link was added."
     },
     {
       "n": 4,
@@ -458,6 +465,32 @@
       "official_text_at": "leginfo.legislature.ca.gov (WebFetch)",
       "status": "queued",
       "note": "Could fold into queued #12 (CA stop-auction) instead of a separate page."
+    },
+    {
+      "n": 32,
+      "priority": "normal",
+      "scope": "state",
+      "state": "FL",
+      "topic": "auction-rules",
+      "slug": "storage-vehicle-boat-lien-sale",
+      "working_title": "Florida Storage Facilities and Your Car or Boat: The 60-Day Rule and Towing",
+      "primary_keyword": "storage unit car towed florida",
+      "start_with_statute": "Fla. Stat. 83.806(10) (verified 2026-10-29) and 713.78",
+      "official_text_at": "leg.state.fl.us",
+      "status": "queued"
+    },
+    {
+      "n": 33,
+      "priority": "normal",
+      "scope": "city",
+      "state": "FL",
+      "city": "Miami",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Miami: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units miami",
+      "note": "FL auction page is live; cite Fla. Stat. 83.808 late-fee rule. No prices unless an official source states them.",
+      "status": "queued"
     }
   ]
 }
