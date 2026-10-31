@@ -43,6 +43,10 @@
       "url_path": "/florida/storage-auction-rules/",
       "published": "2026-10-29",
       "statute": "Fla. Stat. 83.801-83.809"
+    },
+    {
+      "url_path": "/new-york/storage-auction-rules/",
+      "published": "2026-10-30"
     }
   ],
   "queue": [
@@ -106,7 +110,9 @@
       "start_with_statute": "N.Y. Lien Law § 182",
       "official_text_at": "nysenate.gov/legislation",
       "legal_aid_to_verify": "LawHelpNY.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/new-york/storage-auction-rules/",
+      "note": "Verified 2026-10-30. nysenate.gov returned a Cloudflare 403 to curl and WebFetch timed out, so Lien Law 182 was read on Justia (2025, WebFetch) and FindLaw (curl, current Jan 1 2026); 200-204 on FindLaw. Section 182 has no advertising, redemption, proceeds, late-fee or rent-increase text; the page presents Article 9 (200-204) as the general lien-sale article and tells readers to ask a lawyer how it applies. NY is an ABA Free Legal Answers participating state. nycourts.gov CourtHelp blocked curl (403) so not added; lsnyc.org returned 500 so not added."
     },
     {
       "n": 5,

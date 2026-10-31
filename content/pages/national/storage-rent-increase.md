@@ -34,11 +34,12 @@
     }
   ],
   "published": "2026-10-27",
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "last_checked": "2026-10-29",
   "sources": [
     {"id": "fl-ch", "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)", "title": "Chapter 83, Part III: Self-Service Storage Space (ss. 83.801-83.809)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/0083PartIIIContentsIndex.html", "checked": "2026-10-29"},
     {"id": "fl-808", "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)", "title": "Section 83.808: Contracts", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.808.html", "checked": "2026-10-29"},
+    {"id": "ny-182", "publisher": "Justia (2025 New York Laws) and FindLaw (current as of January 1, 2026)", "title": "N.Y. Lien Law § 182: Self-storage facilities; lien", "url": "https://law.justia.com/codes/new-york/lie/article-8/182/", "checked": "2026-10-30"},
     {"id": "tx-ch", "publisher": "Texas Legislature, Texas Constitution and Statutes", "title": "Texas Property Code Chapter 59: Self-Service Storage Facility Liens", "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.59.htm", "checked": "2026-10-27"},
     {
       "id": "in-16",
@@ -143,7 +144,7 @@ State storage laws mostly cover the facility's lien, late fees and lien sales, a
 Some states set a minimum notice period for changing a storage rental agreement:
 
 - **California:** the owner may change the terms, including rent, only after **at least 30 days' written notice** by personal delivery, first-class mail to your last known address, or agreed email. The new terms take effect after 30 days if you keep storing there [[ca-21715]]. See [California storage auction rules](/california/storage-auction-rules/) for its late-fee caps and new first-page rent disclosures.
-- **Florida**, **Indiana**, **Ohio** and **Texas:** their storage chapters don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[in-ch]] [[oh-ch]] [[tx-ch]]. See [Florida storage auction rules](/florida/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
+- **Florida**, **Indiana**, **New York**, **Ohio** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[in-ch]] [[ny-182]] [[oh-ch]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Florida storage auction rules](/florida/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
 
 We're adding more states. Check your state's page from the [home page](/).
 

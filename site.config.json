@@ -11,7 +11,8 @@
     "OH": "Ohio",
     "TX": "Texas",
     "CA": "California",
-    "FL": "Florida"
+    "FL": "Florida",
+    "NY": "New York"
   },
   "affiliates": {
     "sparefoot": {
@@ -40,7 +41,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-10-29",
+    "checked": "2026-10-30",
     "national": [
       {
         "name": "LawHelp.org",
@@ -142,6 +143,21 @@
             "name": "The Florida Bar: Pro Bono & Legal Aid",
             "url": "https://www.floridabar.org/public/probono/",
             "blurb": "The Florida Bar's page for finding free legal aid and pro bono help, plus its Lawyer Referral Service."
+          }
+        ]
+      },
+      "NY": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "LawHelpNY",
+            "url": "https://www.lawhelpny.org/",
+            "blurb": "Nonprofit statewide site: find free lawyers and legal aid offices in New York and read guides on housing, debt and consumer problems."
+          },
+          {
+            "name": "The Legal Aid Society (New York City)",
+            "url": "https://legalaidnyc.org/",
+            "blurb": "Nonprofit giving free civil legal help to eligible low-income New Yorkers in all five boroughs."
           }
         ]
       }

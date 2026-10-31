@@ -169,6 +169,6 @@ If a secured lender's lien comes ahead of the facility's lien, the sale money is
 - **No living in the unit:** no storage space may be used for residential purposes [[fl-803]].
 - **Rent increases:** the act has no section setting a rent-increase notice period, so your rental agreement controls [[fl-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Texas storage auction rules](/texas/storage-auction-rules/) and [California storage auction rules](/california/storage-auction-rules/).
+Compare with [Texas storage auction rules](/texas/storage-auction-rules/), [California storage auction rules](/california/storage-auction-rules/) and [New York storage auction rules](/new-york/storage-auction-rules/).
 
 {{partner-box}}
