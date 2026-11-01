@@ -34,13 +34,37 @@
     }
   ],
   "published": "2026-10-27",
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "last_checked": "2026-10-29",
   "sources": [
-    {"id": "fl-ch", "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)", "title": "Chapter 83, Part III: Self-Service Storage Space (ss. 83.801-83.809)", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/0083PartIIIContentsIndex.html", "checked": "2026-10-29"},
-    {"id": "fl-808", "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)", "title": "Section 83.808: Contracts", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.808.html", "checked": "2026-10-29"},
-    {"id": "ny-182", "publisher": "Justia (2025 New York Laws) and FindLaw (current as of January 1, 2026)", "title": "N.Y. Lien Law § 182: Self-storage facilities; lien", "url": "https://law.justia.com/codes/new-york/lie/article-8/182/", "checked": "2026-10-30"},
-    {"id": "tx-ch", "publisher": "Texas Legislature, Texas Constitution and Statutes", "title": "Texas Property Code Chapter 59: Self-Service Storage Facility Liens", "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.59.htm", "checked": "2026-10-27"},
+    {
+      "id": "fl-ch",
+      "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)",
+      "title": "Chapter 83, Part III: Self-Service Storage Space (ss. 83.801-83.809)",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/0083PartIIIContentsIndex.html",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "fl-808",
+      "publisher": "The Florida Legislature, Online Sunshine (2026 Florida Statutes)",
+      "title": "Section 83.808: Contracts",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.808.html",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "ny-182",
+      "publisher": "Justia (2025 New York Laws) and FindLaw (current as of January 1, 2026)",
+      "title": "N.Y. Lien Law § 182: Self-storage facilities; lien",
+      "url": "https://law.justia.com/codes/new-york/lie/article-8/182/",
+      "checked": "2026-10-30"
+    },
+    {
+      "id": "tx-ch",
+      "publisher": "Texas Legislature, Texas Constitution and Statutes",
+      "title": "Texas Property Code Chapter 59: Self-Service Storage Facility Liens",
+      "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.59.htm",
+      "checked": "2026-10-27"
+    },
     {
       "id": "in-16",
       "publisher": "Justia (Indiana Code text)",
@@ -117,6 +141,13 @@
       "title": "Consumers: file a complaint and consumer help",
       "url": "https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers",
       "checked": "2026-10-27"
+    },
+    {
+      "id": "pa-ch56",
+      "publisher": "Pennsylvania General Assembly (official text of Act 51 of 2025)",
+      "title": "12 Pa.C.S. Chapter 56: Self-Service Storage Facilities (§§ 5605, 5619)",
+      "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?txtType=PDF&SessYr=2025&ActNum=0051.&SessInd=0",
+      "checked": "2026-10-31"
     }
   ]
 }
@@ -144,7 +175,7 @@ State storage laws mostly cover the facility's lien, late fees and lien sales, a
 Some states set a minimum notice period for changing a storage rental agreement:
 
 - **California:** the owner may change the terms, including rent, only after **at least 30 days' written notice** by personal delivery, first-class mail to your last known address, or agreed email. The new terms take effect after 30 days if you keep storing there [[ca-21715]]. See [California storage auction rules](/california/storage-auction-rules/) for its late-fee caps and new first-page rent disclosures.
-- **Florida**, **Indiana**, **New York**, **Ohio** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[in-ch]] [[ny-182]] [[oh-ch]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Florida storage auction rules](/florida/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
+- **Florida**, **Indiana**, **New York**, **Ohio**, **Pennsylvania** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[in-ch]] [[ny-182]] [[oh-ch]] [[pa-ch56]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Florida storage auction rules](/florida/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/), [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
 
 We're adding more states. Check your state's page from the [home page](/).
 
@@ -152,7 +183,7 @@ We're adding more states. Check your state's page from the [home page](/).
 
 Don't withhold rent to protest. Unpaid rent is a default, and it costs money fast:
 
-- **Late fees:** Indiana allows up to the greater of $20 or 20% of monthly rent for each month in default [[in-115]]. Ohio allows a reasonable late fee stated in the agreement, but none if you pay in full by the third day after the due date [[oh-05]]. Florida treats a late fee of $20 or 20% of monthly rent, whichever is greater, as reasonable, if the fee is stated in your agreement [[fl-808]].
+- **Late fees:** Indiana allows up to the greater of $20 or 20% of monthly rent for each month in default [[in-115]]. Ohio allows a reasonable late fee stated in the agreement, but none if you pay in full by the third day after the due date [[oh-05]]. Florida treats a late fee of $20 or 20% of monthly rent, whichever is greater, as reasonable, if the fee is stated in your agreement [[fl-808]]. Pennsylvania treats the same $20-or-20% fee as reasonable if the agreement discloses it, but allows no late fee if you pay in full by the fifth day after the due date [[pa-ch56]].
 - **Lockout and sale:** in Indiana, a facility can start enforcing its lien after 5 days of continuous default [[in-12]]. In Ohio, the lien notice can demand payment in as little as 10 days [[oh-03]].
 
 ## Step 4: Negotiate

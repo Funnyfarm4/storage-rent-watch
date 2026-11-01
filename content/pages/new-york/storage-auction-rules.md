@@ -150,6 +150,6 @@ Under the general lien-sale article, the facility keeps enough to pay its lien a
 - **Liability limits:** if your agreement caps what the facility owes for loss or damage, it must say you can ask in writing to raise that cap, show the rates for doing so, and include a request form [[ny-182]].
 - **Rent increases:** section 182 has no rent-increase notice period, so your agreement controls [[ny-182]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Florida storage auction rules](/florida/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [California storage auction rules](/california/storage-auction-rules/).
+Compare with [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), [Florida storage auction rules](/florida/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [California storage auction rules](/california/storage-auction-rules/).
 
 {{partner-box}}

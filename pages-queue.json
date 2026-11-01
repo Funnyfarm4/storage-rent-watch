@@ -47,6 +47,11 @@
     {
       "url_path": "/new-york/storage-auction-rules/",
       "published": "2026-10-30"
+    },
+    {
+      "url_path": "/pennsylvania/storage-auction-rules/",
+      "published": "2026-10-31",
+      "statute": "12 Pa.C.S. Ch. 56"
     }
   ],
   "queue": [
@@ -126,7 +131,9 @@
       "start_with_statute": "Self-Service Storage Facility Act, 73 P.S. § 1901 et seq.",
       "official_text_at": "legis.state.pa.us",
       "legal_aid_to_verify": "PALawHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/pennsylvania/storage-auction-rules/",
+      "note": "Verified 2026-10-31. The 1982 act (73 P.S. 1901 et seq.) was REPEALED by Act 51 of 2025 (HB 1359, signed 2025-11-24) and replaced by 12 Pa.C.S. Ch. 56 (secs 5601-5619), effective 60 days after signing. Text read from the official Act 51 PDF on palegis.us (the consolidated-statute HTML view loads text by script). Not covered: no statutory court process for disputing the lien, and no rent-increase rule in Ch. 56. PALawHelp.org drops scripted connections; verified with WebFetch."
     },
     {
       "n": 6,
@@ -263,9 +270,9 @@
       "slug": "stop-storage-auction",
       "working_title": "How to Stop a Storage Unit Auction in Pennsylvania (and Claim Leftover Sale Money)",
       "primary_keyword": "stop storage auction pennsylvania",
-      "start_with_statute": "Self-Service Storage Facility Act, 73 P.S. § 1901 et seq.",
-      "official_text_at": "legis.state.pa.us",
-      "legal_aid_to_verify": "PALawHelp.org",
+      "start_with_statute": "12 Pa.C.S. Ch. 56 (5606, 5607, 5610, 5614), which replaced 73 P.S. 1901 et seq. (repealed by Act 51 of 2025)",
+      "official_text_at": "palegis.us Act 51 of 2025 PDF",
+      "legal_aid_to_verify": "PALawHelp.org and palegalaid.net (verified 2026-10-31)",
       "status": "queued"
     },
     {
@@ -496,6 +503,32 @@
       "working_title": "Cheap Storage in Miami: How to Avoid Teaser-Rate Traps and Cut Your Bill",
       "primary_keyword": "cheap storage units miami",
       "note": "FL auction page is live; cite Fla. Stat. 83.808 late-fee rule. No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 34,
+      "priority": "normal",
+      "scope": "state",
+      "state": "PA",
+      "topic": "rent-increase",
+      "slug": "storage-lease-termination-notice",
+      "working_title": "Pennsylvania Storage Facility Ended Your Rental? The 14-Day Notice Rule (12 Pa.C.S. 5618)",
+      "primary_keyword": "storage unit termination notice pennsylvania",
+      "start_with_statute": "12 Pa.C.S. 5618 and 5617 (verified 2026-10-31)",
+      "official_text_at": "palegis.us Act 51 of 2025 PDF",
+      "status": "queued"
+    },
+    {
+      "n": 35,
+      "priority": "normal",
+      "scope": "city",
+      "state": "PA",
+      "city": "Pittsburgh",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Pittsburgh: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units pittsburgh",
+      "note": "PA auction page is live; cite 12 Pa.C.S. 5605 late-fee rule. No prices unless an official source states them.",
       "status": "queued"
     }
   ]

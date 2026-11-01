@@ -12,7 +12,8 @@
     "TX": "Texas",
     "CA": "California",
     "FL": "Florida",
-    "NY": "New York"
+    "NY": "New York",
+    "PA": "Pennsylvania"
   },
   "affiliates": {
     "sparefoot": {
@@ -41,7 +42,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-10-30",
+    "checked": "2026-10-31",
     "national": [
       {
         "name": "LawHelp.org",
@@ -160,6 +161,21 @@
             "blurb": "Nonprofit giving free civil legal help to eligible low-income New Yorkers in all five boroughs."
           }
         ]
+      },
+      "PA": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "PALawHelp.org",
+            "url": "https://www.palawhelp.org/",
+            "blurb": "Pennsylvania's online guide to legal information and legal services, with a link to apply for help from the Pennsylvania Legal Aid Network."
+          },
+          {
+            "name": "Pennsylvania Legal Aid Network",
+            "url": "https://palegalaid.net/",
+            "blurb": "Statewide network of nonprofit civil legal aid organizations serving eligible low-income Pennsylvanians."
+          }
+        ]
       }
     }
   },
@@ -173,6 +189,7 @@
   },
   "external_links_verified_manually": {
     "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it.",
-    "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it."
+    "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it.",
+    "https://www.palawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-31; the Pennsylvania Legal Aid Network site links to it."
   }
 }
