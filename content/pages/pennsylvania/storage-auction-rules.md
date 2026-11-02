@@ -11,7 +11,7 @@
   "partner_heading": "Got your things back? Compare before you move them",
   "partner_intro": "If you paid off the lien and want a cheaper or closer unit, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-10-31",
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "last_checked": "2026-10-31",
   "quick_facts": [
     "Pennsylvania's storage lien law moved into **Title 12, Chapter 56** of the Consolidated Statutes. Act 51 of 2025 added it and repealed the old 1982 Self-Service Storage Facility Act [[pa-act51]].",
@@ -257,6 +257,6 @@ The owner may pay its lien from the sale proceeds but must hold any balance **fo
 - **Other people's property:** your agreement must ask you to tell the owner about anything in the unit that isn't yours, and a value limit in the agreement is binding if it's in bold or underlined [[pa-5616]].
 - **Rent increases:** Chapter 56 has no rent-increase notice rule, so your agreement controls [[pa-5619]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [New York storage auction rules](/new-york/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/) and [Indiana storage auction rules](/indiana/storage-auction-rules/).
+Compare with [New York storage auction rules](/new-york/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
 
 {{partner-box}}

@@ -13,7 +13,8 @@
     "CA": "California",
     "FL": "Florida",
     "NY": "New York",
-    "PA": "Pennsylvania"
+    "PA": "Pennsylvania",
+    "IL": "Illinois"
   },
   "affiliates": {
     "sparefoot": {
@@ -42,7 +43,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-10-31",
+    "checked": "2026-11-01",
     "national": [
       {
         "name": "LawHelp.org",
@@ -176,6 +177,31 @@
             "blurb": "Statewide network of nonprofit civil legal aid organizations serving eligible low-income Pennsylvanians."
           }
         ]
+      },
+      "IL": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Illinois Legal Aid Online",
+            "url": "https://www.illinoislegalaid.org/",
+            "blurb": "Free Illinois legal information, step-by-step guides and forms, plus a directory to find a legal aid organization near you."
+          },
+          {
+            "name": "Legal Aid Chicago",
+            "url": "https://legalaidchicago.org/",
+            "blurb": "Free civil legal services for people living in poverty in Cook County. Call 312-341-1070."
+          },
+          {
+            "name": "Prairie State Legal Services",
+            "url": "https://www.pslegal.org/",
+            "blurb": "Free civil legal aid for eligible residents of 36 counties in northern and central Illinois."
+          },
+          {
+            "name": "Land of Lincoln Legal Aid",
+            "url": "https://lincolnlegal.org/",
+            "blurb": "Free civil legal aid for low-income and senior Illinois residents. Check its site for the counties it serves."
+          }
+        ]
       }
     }
   },
@@ -190,6 +216,7 @@
   "external_links_verified_manually": {
     "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it.",
     "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it.",
-    "https://www.palawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-31; the Pennsylvania Legal Aid Network site links to it."
+    "https://www.palawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-31; the Pennsylvania Legal Aid Network site links to it.",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2262&Chapter=LIENS&ChapterID=63&MajorTopic=RIGHTS+AND+REMEDIES": "ilga.gov serves an incomplete TLS certificate chain, so the box's Python/curl can't verify it (browsers can). Loaded fine with WebFetch on 2026-11-01 showing the full 770 ILCS 95 text."
   }
 }
