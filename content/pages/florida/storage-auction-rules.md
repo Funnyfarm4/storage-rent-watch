@@ -11,7 +11,7 @@
   "partner_heading": "Got your things back? Compare before you move them",
   "partner_intro": "If you paid off the lien and want a cheaper or closer unit, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-10-29",
-  "updated": "2026-10-29",
+  "updated": "2026-11-02",
   "last_checked": "2026-10-29",
   "quick_facts": [
     "If rent isn't paid, the facility can **lock you out after 5 days** from the due date, without notice [[fl-8055]].",
@@ -169,6 +169,6 @@ If a secured lender's lien comes ahead of the facility's lien, the sale money is
 - **No living in the unit:** no storage space may be used for residential purposes [[fl-803]].
 - **Rent increases:** the act has no section setting a rent-increase notice period, so your rental agreement controls [[fl-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Texas storage auction rules](/texas/storage-auction-rules/), [California storage auction rules](/california/storage-auction-rules/) and [New York storage auction rules](/new-york/storage-auction-rules/).
+Compare with [Texas storage auction rules](/texas/storage-auction-rules/), [California storage auction rules](/california/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/) and neighboring [Georgia storage auction rules](/georgia/storage-auction-rules/).
 
 {{partner-box}}

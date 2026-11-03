@@ -14,7 +14,8 @@
     "FL": "Florida",
     "NY": "New York",
     "PA": "Pennsylvania",
-    "IL": "Illinois"
+    "IL": "Illinois",
+    "GA": "Georgia"
   },
   "affiliates": {
     "sparefoot": {
@@ -43,7 +44,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-01",
+    "checked": "2026-11-02",
     "national": [
       {
         "name": "LawHelp.org",
@@ -202,6 +203,26 @@
             "blurb": "Free civil legal aid for low-income and senior Illinois residents. Check its site for the counties it serves."
           }
         ]
+      },
+      "GA": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "GeorgiaLegalAid.org",
+            "url": "https://www.georgialegalaid.org/",
+            "blurb": "Free, easy-to-understand Georgia legal information and guides, with ways to contact Atlanta Legal Aid or Georgia Legal Services Program."
+          },
+          {
+            "name": "Georgia Legal Services Program",
+            "url": "https://www.glsp.org/",
+            "blurb": "Nonprofit law firm giving free civil legal help to low-income Georgians outside metro Atlanta. Call 1-800-498-9469."
+          },
+          {
+            "name": "Atlanta Legal Aid Society",
+            "url": "https://atlantalegalaid.org/",
+            "blurb": "Free civil legal help for people in the metro Atlanta area who can't afford a lawyer. Downtown office: 404-524-5811."
+          }
+        ]
       }
     }
   },
@@ -217,6 +238,7 @@
     "https://www.lawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-27; LSC's official page also links to it.",
     "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it.",
     "https://www.palawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-31; the Pennsylvania Legal Aid Network site links to it.",
-    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2262&Chapter=LIENS&ChapterID=63&MajorTopic=RIGHTS+AND+REMEDIES": "ilga.gov serves an incomplete TLS certificate chain, so the box's Python/curl can't verify it (browsers can). Loaded fine with WebFetch on 2026-11-01 showing the full 770 ILCS 95 text."
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2262&Chapter=LIENS&ChapterID=63&MajorTopic=RIGHTS+AND+REMEDIES": "ilga.gov serves an incomplete TLS certificate chain, so the box's Python/curl can't verify it (browsers can). Loaded fine with WebFetch on 2026-11-01 showing the full 770 ILCS 95 text.",
+    "https://www.georgialegalaid.org/": "Server drops non-browser connections from the box (curl returns no response). Loaded fine with WebFetch on 2026-11-02; Atlanta Legal Aid and GLSP are the contacts it lists."
   }
 }
