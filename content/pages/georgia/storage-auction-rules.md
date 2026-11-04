@@ -11,7 +11,7 @@
   "partner_heading": "Paid the lien? You may need a new place",
   "partner_intro": "Once you pay to redeem your things in Georgia before the sale, the owner can release them to you. If you'd rather move than stay, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-11-02",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "last_checked": "2026-11-02",
   "quick_facts": [
     "You're in default if a monthly payment isn't made by the **seventh calendar day** of the month it's due, and the owner can deny you access once you're in default [[ga-213]].",
@@ -211,6 +211,6 @@ The owner can end or not renew your rental agreement by written notice delivered
 - **No living in units:** no occupant may use a storage facility for residential purposes [[ga-216]].
 - **Rent increases:** the Act doesn't set a rent-increase notice period, so your agreement controls [[ga-act]] [[ga-214]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Florida storage auction rules](/florida/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
+Compare with [Florida storage auction rules](/florida/storage-auction-rules/), neighboring [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
 
 {{partner-box}}

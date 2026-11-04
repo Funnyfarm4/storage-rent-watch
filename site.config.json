@@ -15,7 +15,8 @@
     "NY": "New York",
     "PA": "Pennsylvania",
     "IL": "Illinois",
-    "GA": "Georgia"
+    "GA": "Georgia",
+    "NC": "North Carolina"
   },
   "affiliates": {
     "sparefoot": {
@@ -44,7 +45,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-02",
+    "checked": "2026-11-03",
     "national": [
       {
         "name": "LawHelp.org",
@@ -221,6 +222,16 @@
             "name": "Atlanta Legal Aid Society",
             "url": "https://atlantalegalaid.org/",
             "blurb": "Free civil legal help for people in the metro Atlanta area who can't afford a lawyer. Downtown office: 404-524-5811."
+          }
+        ]
+      },
+      "NC": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Legal Aid of North Carolina",
+            "url": "https://legalaidnc.org/",
+            "blurb": "North Carolina's statewide nonprofit law firm giving free civil legal help to people who qualify. Apply online, or by phone 9 a.m. to 3 p.m. on weekdays."
           }
         ]
       }

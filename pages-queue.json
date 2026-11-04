@@ -62,6 +62,11 @@
       "url_path": "/georgia/storage-auction-rules/",
       "published": "2026-11-02",
       "statute": "O.C.G.A. 10-4-210 to 10-4-218"
+    },
+    {
+      "url_path": "/north-carolina/storage-auction-rules/",
+      "published": "2026-11-03",
+      "statute": "N.C. Gen. Stat. 44A-40 to 44A-46"
     }
   ],
   "queue": [
@@ -189,7 +194,9 @@
       "start_with_statute": "N.C. Gen. Stat. § 44A-40 et seq.",
       "official_text_at": "ncleg.gov",
       "legal_aid_to_verify": "Legal Aid of North Carolina (legalaidnc.org)",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/north-carolina/storage-auction-rules/",
+      "verified_note": "Verified 2026-11-03 from ncleg.gov official text of G.S. 44A-40 to 44A-46 (incl. S.L. 2025-25 history notes). Article 4 has no late-fee cap and no rent-increase notice rule, so neither is stated beyond that. Leftover balance goes to the clerk of superior court if occupant cannot be found; whether/when clerks forward it to NCCash was not verified, so only a general NCCash search link is given. Legal aid verified: legalaidnc.org (no phone number shown in page text, so none given); lawhelpnc.org did not load from the box and was dropped; NC is a participating ABA Free Legal Answers state (nc.freelegalanswers.org loads). nccourts.gov returns 403 to the box, so no court link was cited."
     },
     {
       "n": 9,
@@ -597,6 +604,33 @@
       "working_title": "Cheap Storage in Savannah: How to Avoid Teaser-Rate Traps and Cut Your Bill",
       "primary_keyword": "cheap storage units savannah",
       "note": "GA auction page is live; cite O.C.G.A. 10-4-217 late-fee cap. No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 40,
+      "priority": "normal",
+      "scope": "state",
+      "state": "NC",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in North Carolina: The 10-Day Hearing Request and Redemption",
+      "primary_keyword": "stop storage auction north carolina",
+      "start_with_statute": "G.S. 44A-43(a), (b)(2) and 44A-44(a), (c) (verified 2026-11-03)",
+      "official_text_at": "ncleg.gov BySection Chapter_44A",
+      "legal_aid_to_verify": "legalaidnc.org (verified 2026-11-03)",
+      "status": "queued"
+    },
+    {
+      "n": 41,
+      "priority": "normal",
+      "scope": "city",
+      "state": "NC",
+      "city": "Charlotte",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Charlotte: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units charlotte",
+      "note": "NC auction page is live; cite G.S. 44A-44(a) partial-payment rule. No prices unless an official source states them.",
       "status": "queued"
     }
   ]

@@ -34,7 +34,7 @@
     }
   ],
   "published": "2026-10-27",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "last_checked": "2026-10-29",
   "sources": [
     {
@@ -162,6 +162,13 @@
       "title": "12 Pa.C.S. Chapter 56: Self-Service Storage Facilities (§§ 5605, 5619)",
       "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?txtType=PDF&SessYr=2025&ActNum=0051.&SessInd=0",
       "checked": "2026-10-31"
+    },
+    {
+      "id": "nc-art4",
+      "publisher": "North Carolina General Assembly",
+      "title": "N.C. Gen. Stat. Chapter 44A, Article 4: Self-Service Storage Facilities (§§ 44A-40 to 44A-46)",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_44A/Article_4.html",
+      "checked": "2026-11-03"
     }
   ]
 }
@@ -189,7 +196,7 @@ State storage laws mostly cover the facility's lien, late fees and lien sales, a
 Some states set a minimum notice period for changing a storage rental agreement:
 
 - **California:** the owner may change the terms, including rent, only after **at least 30 days' written notice** by personal delivery, first-class mail to your last known address, or agreed email. The new terms take effect after 30 days if you keep storing there [[ca-21715]]. See [California storage auction rules](/california/storage-auction-rules/) for its late-fee caps and new first-page rent disclosures.
-- **Florida**, **Georgia**, **Illinois**, **Indiana**, **New York**, **Ohio**, **Pennsylvania** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[ga-act]] [[il-act]] [[in-ch]] [[ny-182]] [[oh-ch]] [[pa-ch56]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Florida storage auction rules](/florida/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/), [Illinois storage auction rules](/illinois/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/), [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
+- **Florida**, **Georgia**, **Illinois**, **Indiana**, **New York**, **North Carolina**, **Ohio**, **Pennsylvania** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[fl-ch]] [[ga-act]] [[il-act]] [[in-ch]] [[ny-182]] [[nc-art4]] [[oh-ch]] [[pa-ch56]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Florida storage auction rules](/florida/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/), [Illinois storage auction rules](/illinois/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/), [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
 
 We're adding more states. Check your state's page from the [home page](/).
 
