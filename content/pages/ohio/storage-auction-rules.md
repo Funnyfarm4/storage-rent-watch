@@ -161,4 +161,6 @@ If the owner fails to follow the sale requirements, it's liable for damages, and
 
 If your rental agreement caps the value of what you can store, and that clause is in bold or underlined, the cap is the maximum value of your property. The cap can't be less than **$1,000**, and it can't limit claims for loss caused by the owner's negligence [[oh-06]].
 
+Compare with neighboring [Michigan storage auction rules](/michigan/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/).
+
 {{partner-box}}

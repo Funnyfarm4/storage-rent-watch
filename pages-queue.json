@@ -67,6 +67,10 @@
       "url_path": "/north-carolina/storage-auction-rules/",
       "published": "2026-11-03",
       "statute": "N.C. Gen. Stat. 44A-40 to 44A-46"
+    },
+    {
+      "url_path": "/michigan/storage-auction-rules/",
+      "published": "2026-11-04"
     }
   ],
   "queue": [
@@ -210,7 +214,8 @@
       "start_with_statute": "Self-Service Storage Facility Act, MCL 570.521 et seq.",
       "official_text_at": "legislature.mi.gov",
       "legal_aid_to_verify": "MichiganLegalHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/michigan/storage-auction-rules/"
     },
     {
       "n": 10,
@@ -631,6 +636,33 @@
       "working_title": "Cheap Storage in Charlotte: How to Avoid Teaser-Rate Traps and Cut Your Bill",
       "primary_keyword": "cheap storage units charlotte",
       "note": "NC auction page is live; cite G.S. 44A-44(a) partial-payment rule. No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 42,
+      "priority": "normal",
+      "scope": "state",
+      "state": "MI",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Michigan (and Claim Leftover Money Within 2 Years)",
+      "primary_keyword": "stop storage auction michigan",
+      "start_with_statute": "MCL 570.525(9), (14), (15) (verified 2026-11-04 on legislature.mi.gov Act 148 of 1985 PDF)",
+      "official_text_at": "legislature.mi.gov/documents/mcl/pdf/mcl-Act-148-of-1985.pdf",
+      "legal_aid_to_verify": "MichiganLegalHelp.org (verified 2026-11-04)",
+      "status": "queued"
+    },
+    {
+      "n": 43,
+      "priority": "normal",
+      "scope": "city",
+      "state": "MI",
+      "city": "Detroit",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Detroit: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units detroit",
+      "note": "MI auction page is live; cite MCL 570.523(6) $20/20% late-fee rule and 570.524(1) 5-day lockout. No prices unless an official source states them.",
       "status": "queued"
     }
   ]

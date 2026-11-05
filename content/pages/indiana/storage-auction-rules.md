@@ -194,4 +194,6 @@ The owner can pay itself the lien amount from the sale. If the sale brings in mo
 
 A rental agreement may cap the value of what you can store. If it does, that cap is treated as the maximum value of your property in the unit [[in-16]]. Check this before you store anything valuable.
 
+Compare with neighboring [Michigan storage auction rules](/michigan/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
+
 {{legal-help}}

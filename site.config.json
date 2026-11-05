@@ -16,7 +16,8 @@
     "PA": "Pennsylvania",
     "IL": "Illinois",
     "GA": "Georgia",
-    "NC": "North Carolina"
+    "NC": "North Carolina",
+    "MI": "Michigan"
   },
   "affiliates": {
     "sparefoot": {
@@ -45,7 +46,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-03",
+    "checked": "2026-11-04",
     "national": [
       {
         "name": "LawHelp.org",
@@ -232,6 +233,16 @@
             "name": "Legal Aid of North Carolina",
             "url": "https://legalaidnc.org/",
             "blurb": "North Carolina's statewide nonprofit law firm giving free civil legal help to people who qualify. Apply online, or by phone 9 a.m. to 3 p.m. on weekdays."
+          }
+        ]
+      },
+      "MI": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Michigan Legal Help",
+            "url": "https://michiganlegalhelp.org/",
+            "blurb": "Free self-help legal information and tools for Michigan, plus a Guide to Legal Help that points you to legal aid and lawyer referrals based on your problem and income."
           }
         ]
       }
