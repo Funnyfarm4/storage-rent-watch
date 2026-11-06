@@ -254,7 +254,7 @@ The fee can't exceed **$10** if monthly rent is $60 or less, **$15** if rent is 
 
 ## Rent increases and new-agreement disclosures
 
-The owner can change the terms of your agreement, including rent, after giving at least **30 days' written notice** by personal delivery, first-class mail or agreed email. The new terms take effect if you keep storing there [[ca-155]]. For agreements first signed on or after January 1, 2026, the **first page** must clearly disclose the term and renewal, any promotional rate and how long it lasts, whether the rent can change and the **maximum rent the owner could charge in the first 12 months**, and every step to cancel [[ca-152]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
+The owner can change the terms of your agreement, including rent, after giving at least **30 days' written notice** by personal delivery, first-class mail or agreed email. The new terms take effect if you keep storing there [[ca-155]]. For agreements first signed on or after January 1, 2026, the **first page** must clearly disclose the term and renewal, any promotional rate and how long it lasts, whether the rent can change and the **maximum rent the owner could charge in the first 12 months**, and every step to cancel [[ca-152]]. See [California storage rent increases](/california/storage-rent-increase/) and the national guide [My storage rent went up. What can I do?](/storage-rent-increase/)
 
 ## Property left after the rental ends
 
