@@ -76,6 +76,11 @@
       "url_path": "/california/storage-rent-increase/",
       "published": "2026-11-05",
       "statute": "Cal. Bus. & Prof. Code \u00a7\u00a7 21715.5, 21715.2"
+    },
+    {
+      "url_path": "/virginia/storage-auction-rules/",
+      "published": "2026-11-06",
+      "statute": "Va. Code \u00a7\u00a7 55.1-2900 to 55.1-2906"
     }
   ],
   "queue": [
@@ -683,7 +688,8 @@
       "start_with_statute": "Va. Code Title 55.1 (self-storage / warehouse lien sections \u2014 verify chapter on law.lis.virginia.gov)",
       "official_text_at": "law.lis.virginia.gov",
       "legal_aid_to_verify": "VirginiaLegalAid.org / LawHelp.org Virginia",
-      "status": "queued"
+      "status": "published",
+      "published_url": "/virginia/storage-auction-rules/"
     },
     {
       "n": 45,
@@ -697,6 +703,48 @@
       "start_with_statute": "RCW chapter on self-service storage facilities (verify on app.leg.wa.gov)",
       "official_text_at": "app.leg.wa.gov",
       "legal_aid_to_verify": "WashingtonLawHelp.org",
+      "status": "queued"
+    },
+    {
+      "n": 46,
+      "priority": "high",
+      "scope": "state",
+      "state": "MD",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Maryland Storage Unit Auction Rules: Notices, Sale Timeline and Your Rights",
+      "primary_keyword": "maryland storage unit auction laws",
+      "start_with_statute": "Md. Code, Commercial Law Title 16 (self-storage / lien \u2014 verify on mdcourts.gov / legiscan / General Assembly site)",
+      "official_text_at": "mgaleg.maryland.gov or law.justia.com Maryland",
+      "legal_aid_to_verify": "MarylandCourts.gov self-help / PeoplesLaw.org / Maryland Legal Aid",
+      "status": "queued"
+    },
+    {
+      "n": 47,
+      "priority": "high",
+      "scope": "state",
+      "state": "TN",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Tennessee Storage Unit Auction Rules: Notices, Sale Timeline and Your Rights",
+      "primary_keyword": "tennessee storage unit auction laws",
+      "start_with_statute": "Tenn. Code Title 66 Chapter 31 (Self-Service Storage Facility Act \u2014 verify on lex.tn.gov)",
+      "official_text_at": "lex.tn.gov or law.justia.com Tennessee",
+      "legal_aid_to_verify": "TNCourts.gov / Legal Aid Society of Middle Tennessee / LawHelp.org Tennessee",
+      "status": "queued"
+    },
+    {
+      "n": 48,
+      "priority": "normal",
+      "scope": "state",
+      "state": "VA",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Virginia (and Claim Leftover Money)",
+      "primary_keyword": "how to stop storage unit auction virginia",
+      "start_with_statute": "Va. Code \u00a7 55.1-2902 (redemption before public auction)",
+      "official_text_at": "law.lis.virginia.gov",
+      "legal_aid_to_verify": "VirginiaLawHelp.org",
       "status": "queued"
     }
   ]

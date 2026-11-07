@@ -17,7 +17,8 @@
     "IL": "Illinois",
     "GA": "Georgia",
     "NC": "North Carolina",
-    "MI": "Michigan"
+    "MI": "Michigan",
+    "VA": "Virginia"
   },
   "affiliates": {
     "sparefoot": {
@@ -46,7 +47,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-05",
+    "checked": "2026-11-06",
     "national": [
       {
         "name": "LawHelp.org",
@@ -243,6 +244,26 @@
             "name": "Michigan Legal Help",
             "url": "https://michiganlegalhelp.org/",
             "blurb": "Free self-help legal information and tools for Michigan, plus a Guide to Legal Help that points you to legal aid and lawyer referrals based on your problem and income."
+          }
+        ]
+      },
+      "VA": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Virginia Law Help",
+            "url": "https://www.virginialawhelp.org/",
+            "blurb": "Virginia's statewide legal information site: guides on housing, debt and consumer problems, DIY tools, and a Get Legal Help directory to find local legal aid by city or county."
+          },
+          {
+            "name": "Virginia Law Help: Get Legal Help",
+            "url": "https://www.virginialawhelp.org/en/get-legal-help",
+            "blurb": "Find local legal aid providers by city or county, or call 866-LEGLAID (866-534-5243) to connect with your local legal aid office."
+          },
+          {
+            "name": "Legal Services Corporation of Virginia",
+            "url": "https://www.lscv.org/work-of-legal-aid",
+            "blurb": "Statewide overview of Virginia's nine regional legal aid programs (35 offices covering every city and county). Legal aid helpline: 1-866-534-5243."
           }
         ]
       }

@@ -194,6 +194,6 @@ If the owner fails to substantially comply with § 44A-44, it's liable to you fo
 - **No living in units:** no occupant may use a self-service storage facility for residential purposes [[nc-40]].
 - **Rent increases:** Article 4 doesn't set a rent-increase notice period, so your agreement controls [[nc-art4]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with neighboring [Georgia storage auction rules](/georgia/storage-auction-rules/), plus [Florida storage auction rules](/florida/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/).
+Compare with neighboring [Virginia storage auction rules](/virginia/storage-auction-rules/) and [Georgia storage auction rules](/georgia/storage-auction-rules/), plus [Florida storage auction rules](/florida/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/).
 
 {{partner-box}}

@@ -257,6 +257,6 @@ The owner may pay its lien from the sale proceeds but must hold any balance **fo
 - **Other people's property:** your agreement must ask you to tell the owner about anything in the unit that isn't yours, and a value limit in the agreement is binding if it's in bold or underlined [[pa-5616]].
 - **Rent increases:** Chapter 56 has no rent-increase notice rule, so your agreement controls [[pa-5619]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [New York storage auction rules](/new-york/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
+Compare with neighboring [Virginia storage auction rules](/virginia/storage-auction-rules/), plus [New York storage auction rules](/new-york/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
 
 {{partner-box}}
