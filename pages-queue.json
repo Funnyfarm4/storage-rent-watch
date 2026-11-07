@@ -81,6 +81,11 @@
       "url_path": "/virginia/storage-auction-rules/",
       "published": "2026-11-06",
       "statute": "Va. Code \u00a7\u00a7 55.1-2900 to 55.1-2906"
+    },
+    {
+      "url_path": "/washington/storage-auction-rules/",
+      "published": "2026-11-07",
+      "statute": "RCW 19.150"
     }
   ],
   "queue": [
@@ -703,7 +708,9 @@
       "start_with_statute": "RCW chapter on self-service storage facilities (verify on app.leg.wa.gov)",
       "official_text_at": "app.leg.wa.gov",
       "legal_aid_to_verify": "WashingtonLawHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/washington/storage-auction-rules/",
+      "note": "Full ch. 19.150 read 2026-11-07 from app.leg.wa.gov full HTML. Late fee $20/20%. Sale floor: later of 14 days after final notice or 42 days after unpaid first due. $300 value split. Excess held 6 months then ch. 63.30 RCW. WA ABA Free Legal Answers not live yet (wa.freelegalanswers.org says launching soon). No newspaper-ad requirement in chapter."
     },
     {
       "n": 46,

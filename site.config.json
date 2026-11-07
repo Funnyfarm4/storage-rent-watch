@@ -18,7 +18,8 @@
     "GA": "Georgia",
     "NC": "North Carolina",
     "MI": "Michigan",
-    "VA": "Virginia"
+    "VA": "Virginia",
+    "WA": "Washington"
   },
   "affiliates": {
     "sparefoot": {
@@ -47,7 +48,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-06",
+    "checked": "2026-11-07",
     "national": [
       {
         "name": "LawHelp.org",
@@ -264,6 +265,26 @@
             "name": "Legal Services Corporation of Virginia",
             "url": "https://www.lscv.org/work-of-legal-aid",
             "blurb": "Statewide overview of Virginia's nine regional legal aid programs (35 offices covering every city and county). Legal aid helpline: 1-866-534-5243."
+          }
+        ]
+      },
+      "WA": {
+        "aba_free_legal_answers": false,
+        "links": [
+          {
+            "name": "Washington Law Help",
+            "url": "https://www.washingtonlawhelp.org/",
+            "blurb": "Free, attorney-reviewed legal information, guides and forms for Washington civil legal problems, managed by Northwest Justice Project."
+          },
+          {
+            "name": "Washington Law Help: Get Legal Help",
+            "url": "https://www.washingtonlawhelp.org/en/get-legal-help",
+            "blurb": "Find Northwest Justice Project and partner legal aid by county, or apply for free civil legal help if you qualify."
+          },
+          {
+            "name": "Northwest Justice Project",
+            "url": "https://www.nwjustice.org/",
+            "blurb": "Washington's largest civil legal aid nonprofit: free information, advice and representation for eligible low-income people."
           }
         ]
       }
