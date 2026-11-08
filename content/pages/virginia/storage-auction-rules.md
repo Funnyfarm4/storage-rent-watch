@@ -220,6 +220,6 @@ Chapter 29 doesn't create a special statutory damages amount for noncompliance t
 - **No living in units:** no occupant may use a self-service storage facility for residential purposes [[va-2900]].
 - **Rent increases:** Chapter 29 doesn't set a rent-increase notice period, so your agreement controls [[va-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with neighboring [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), plus [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/) and [Florida storage auction rules](/florida/storage-auction-rules/).
+Compare with neighboring [North Carolina storage auction rules](/north-carolina/storage-auction-rules/) and [Maryland storage auction rules](/maryland/storage-auction-rules/), plus [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/) and [Florida storage auction rules](/florida/storage-auction-rules/).
 
 {{partner-box}}

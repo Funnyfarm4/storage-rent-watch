@@ -19,7 +19,8 @@
     "NC": "North Carolina",
     "MI": "Michigan",
     "VA": "Virginia",
-    "WA": "Washington"
+    "WA": "Washington",
+    "MD": "Maryland"
   },
   "affiliates": {
     "sparefoot": {
@@ -285,6 +286,26 @@
             "name": "Northwest Justice Project",
             "url": "https://www.nwjustice.org/",
             "blurb": "Washington's largest civil legal aid nonprofit: free information, advice and representation for eligible low-income people."
+          }
+        ]
+      },
+      "MD": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Maryland Legal Aid",
+            "url": "https://www.mdlab.org/",
+            "blurb": "Free civil legal services for financially eligible Marylanders from 12 offices. Phone: 888-465-2468."
+          },
+          {
+            "name": "Maryland Legal Aid: Get Help & Services",
+            "url": "https://www.mdlab.org/get-help-services/",
+            "blurb": "How to apply for help, income guidelines and free legal clinics."
+          },
+          {
+            "name": "The Maryland People's Law Library",
+            "url": "https://www.peoples-law.org/",
+            "blurb": "Free Maryland legal information, plus a legal services directory and legal clinic calendar."
           }
         ]
       }
