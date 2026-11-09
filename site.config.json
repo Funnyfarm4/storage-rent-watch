@@ -20,7 +20,8 @@
     "MI": "Michigan",
     "VA": "Virginia",
     "WA": "Washington",
-    "MD": "Maryland"
+    "MD": "Maryland",
+    "TN": "Tennessee"
   },
   "affiliates": {
     "sparefoot": {
@@ -49,7 +50,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-07",
+    "checked": "2026-11-08",
     "national": [
       {
         "name": "LawHelp.org",
@@ -306,6 +307,31 @@
             "name": "The Maryland People's Law Library",
             "url": "https://www.peoples-law.org/",
             "blurb": "Free Maryland legal information, plus a legal services directory and legal clinic calendar."
+          }
+        ]
+      },
+      "TN": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "HELP4TN",
+            "url": "https://www.help4tn.org/",
+            "blurb": "Tennessee's statewide site for free legal information, forms and help finding free legal and social services, run by the Tennessee Alliance for Legal Services."
+          },
+          {
+            "name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+            "url": "https://las.org/",
+            "blurb": "Free civil legal help for eligible people in Middle Tennessee and the Cumberlands, plus self-help resources and free clinics."
+          },
+          {
+            "name": "Legal Aid of East Tennessee",
+            "url": "https://laet.org/",
+            "blurb": "Free civil legal help across East Tennessee from offices in Chattanooga, Knoxville and the Tri-Cities."
+          },
+          {
+            "name": "Memphis Area Legal Services",
+            "url": "https://malsi.org/",
+            "blurb": "Free civil legal help and legal clinics for eligible people in the Memphis area."
           }
         ]
       }

@@ -211,6 +211,6 @@ The owner can end or not renew your rental agreement by written notice delivered
 - **No living in units:** no occupant may use a storage facility for residential purposes [[ga-216]].
 - **Rent increases:** the Act doesn't set a rent-increase notice period, so your agreement controls [[ga-act]] [[ga-214]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Florida storage auction rules](/florida/storage-auction-rules/), neighboring [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
+Compare with [Florida storage auction rules](/florida/storage-auction-rules/), neighboring [North Carolina storage auction rules](/north-carolina/storage-auction-rules/) and [Tennessee storage auction rules](/tennessee/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/).
 
 {{partner-box}}

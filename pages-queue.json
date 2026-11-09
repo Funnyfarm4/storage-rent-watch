@@ -75,12 +75,12 @@
     {
       "url_path": "/california/storage-rent-increase/",
       "published": "2026-11-05",
-      "statute": "Cal. Bus. & Prof. Code \u00a7\u00a7 21715.5, 21715.2"
+      "statute": "Cal. Bus. & Prof. Code §§ 21715.5, 21715.2"
     },
     {
       "url_path": "/virginia/storage-auction-rules/",
       "published": "2026-11-06",
-      "statute": "Va. Code \u00a7\u00a7 55.1-2900 to 55.1-2906"
+      "statute": "Va. Code §§ 55.1-2900 to 55.1-2906"
     },
     {
       "url_path": "/washington/storage-auction-rules/",
@@ -90,7 +90,11 @@
     {
       "url_path": "/maryland/storage-auction-rules/",
       "published": "2026-11-07",
-      "statute": "Md. Code, Com. Law \u00a7\u00a7 18-501 to 18-506"
+      "statute": "Md. Code, Com. Law §§ 18-501 to 18-506"
+    },
+    {
+      "url_path": "/tennessee/storage-auction-rules/",
+      "published": "2026-11-08"
     }
   ],
   "queue": [
@@ -119,7 +123,7 @@
       "slug": "storage-auction-rules",
       "working_title": "California Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "california storage unit auction laws",
-      "start_with_statute": "Cal. Bus. & Prof. Code \u00a7\u00a7 21700-21716",
+      "start_with_statute": "Cal. Bus. & Prof. Code §§ 21700-21716",
       "official_text_at": "leginfo.legislature.ca.gov",
       "legal_aid_to_verify": "LawHelpCA.org",
       "status": "published",
@@ -135,7 +139,7 @@
       "slug": "storage-auction-rules",
       "working_title": "Florida Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "florida storage unit auction laws",
-      "start_with_statute": "Fla. Stat. \u00a7\u00a7 83.801-83.809 (Self-Storage Facility Act)",
+      "start_with_statute": "Fla. Stat. §§ 83.801-83.809 (Self-Storage Facility Act)",
       "official_text_at": "leg.state.fl.us / flsenate.gov",
       "legal_aid_to_verify": "FloridaLawHelp.org",
       "status": "published",
@@ -151,7 +155,7 @@
       "slug": "storage-auction-rules",
       "working_title": "New York Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "new york storage unit auction laws",
-      "start_with_statute": "N.Y. Lien Law \u00a7 182",
+      "start_with_statute": "N.Y. Lien Law § 182",
       "official_text_at": "nysenate.gov/legislation",
       "legal_aid_to_verify": "LawHelpNY.org",
       "status": "published",
@@ -167,7 +171,7 @@
       "slug": "storage-auction-rules",
       "working_title": "Pennsylvania Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "pennsylvania storage unit auction laws",
-      "start_with_statute": "Self-Service Storage Facility Act, 73 P.S. \u00a7 1901 et seq.",
+      "start_with_statute": "Self-Service Storage Facility Act, 73 P.S. § 1901 et seq.",
       "official_text_at": "legis.state.pa.us",
       "legal_aid_to_verify": "PALawHelp.org",
       "status": "published",
@@ -199,7 +203,7 @@
       "slug": "storage-auction-rules",
       "working_title": "Georgia Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "georgia storage unit auction laws",
-      "start_with_statute": "O.C.G.A. \u00a7 10-4-210 et seq.",
+      "start_with_statute": "O.C.G.A. § 10-4-210 et seq.",
       "official_text_at": "Georgia General Assembly / official code site",
       "legal_aid_to_verify": "GeorgiaLegalAid.org",
       "status": "published",
@@ -215,7 +219,7 @@
       "slug": "storage-auction-rules",
       "working_title": "North Carolina Storage Unit Auction Rules: Timeline, Notices and Your Rights",
       "primary_keyword": "north carolina storage unit auction laws",
-      "start_with_statute": "N.C. Gen. Stat. \u00a7 44A-40 et seq.",
+      "start_with_statute": "N.C. Gen. Stat. § 44A-40 et seq.",
       "official_text_at": "ncleg.gov",
       "legal_aid_to_verify": "Legal Aid of North Carolina (legalaidnc.org)",
       "status": "published",
@@ -246,7 +250,7 @@
       "slug": "storage-rent-increase",
       "working_title": "California Storage Rent Increases: The 30-Day Notice Rule and Local Ordinances",
       "primary_keyword": "california storage unit rent increase law",
-      "start_with_statute": "Cal. Bus. & Prof. Code \u00a7 21715.5 (already verified 2026-10-27); check city/county ordinances only from official municipal code sites",
+      "start_with_statute": "Cal. Bus. & Prof. Code § 21715.5 (already verified 2026-10-27); check city/county ordinances only from official municipal code sites",
       "official_text_at": "leginfo.legislature.ca.gov",
       "legal_aid_to_verify": "LawHelpCA.org",
       "status": "published",
@@ -275,7 +279,7 @@
       "slug": "stop-storage-auction",
       "working_title": "How to Stop a Storage Unit Auction in California (and Claim Leftover Sale Money)",
       "primary_keyword": "stop storage auction california",
-      "start_with_statute": "Cal. Bus. & Prof. Code \u00a7\u00a7 21700-21716",
+      "start_with_statute": "Cal. Bus. & Prof. Code §§ 21700-21716",
       "official_text_at": "leginfo.legislature.ca.gov",
       "legal_aid_to_verify": "LawHelpCA.org",
       "status": "queued"
@@ -289,7 +293,7 @@
       "slug": "stop-storage-auction",
       "working_title": "How to Stop a Storage Unit Auction in Florida (and Claim Leftover Sale Money)",
       "primary_keyword": "stop storage auction florida",
-      "start_with_statute": "Fla. Stat. \u00a7\u00a7 83.801-83.809 (Self-Storage Facility Act)",
+      "start_with_statute": "Fla. Stat. §§ 83.801-83.809 (Self-Storage Facility Act)",
       "official_text_at": "leg.state.fl.us / flsenate.gov",
       "legal_aid_to_verify": "FloridaLawHelp.org",
       "status": "queued"
@@ -303,7 +307,7 @@
       "slug": "stop-storage-auction",
       "working_title": "How to Stop a Storage Unit Auction in New York (and Claim Leftover Sale Money)",
       "primary_keyword": "stop storage auction new york",
-      "start_with_statute": "N.Y. Lien Law \u00a7 182",
+      "start_with_statute": "N.Y. Lien Law § 182",
       "official_text_at": "nysenate.gov/legislation",
       "legal_aid_to_verify": "LawHelpNY.org",
       "status": "queued"
@@ -695,7 +699,7 @@
       "slug": "storage-auction-rules",
       "working_title": "Virginia Storage Unit Auction Rules: Notices, Sale Timeline and Your Rights",
       "primary_keyword": "virginia storage unit auction laws",
-      "start_with_statute": "Va. Code Title 55.1 (self-storage / warehouse lien sections \u2014 verify chapter on law.lis.virginia.gov)",
+      "start_with_statute": "Va. Code Title 55.1 (self-storage / warehouse lien sections — verify chapter on law.lis.virginia.gov)",
       "official_text_at": "law.lis.virginia.gov",
       "legal_aid_to_verify": "VirginiaLegalAid.org / LawHelp.org Virginia",
       "status": "published",
@@ -726,12 +730,12 @@
       "slug": "storage-auction-rules",
       "working_title": "Maryland Storage Unit Auction Rules: Notices, Sale Timeline and Your Rights",
       "primary_keyword": "maryland storage unit auction laws",
-      "start_with_statute": "Md. Code, Commercial Law Title 16 (self-storage / lien \u2014 verify on mdcourts.gov / legiscan / General Assembly site)",
+      "start_with_statute": "Md. Code, Commercial Law Title 16 (self-storage / lien — verify on mdcourts.gov / legiscan / General Assembly site)",
       "official_text_at": "mgaleg.maryland.gov or law.justia.com Maryland",
       "legal_aid_to_verify": "MarylandCourts.gov self-help / PeoplesLaw.org / Maryland Legal Aid",
       "status": "published",
       "published_url": "https://funnyfarm4.github.io/storage-rent-watch/maryland/storage-auction-rules/",
-      "note": "Queued citation (Title 16) was wrong; the law is Com. Law \u00a7\u00a7 18-501 to 18-506, read 2026-11-07 on mgaleg.maryland.gov. Sale only after >60 days default; 14-day demand; 10-day sale notice; 3-day ad (newspaper/email/website); late fee max greater of $20 or 20%; surplus mailed certified, if returned held 1 year then presumed abandoned (17-307.1). mdcourts.gov/legalhelp returned 403 to curl so was left out. MD is an ABA Free Legal Answers participating state."
+      "note": "Queued citation (Title 16) was wrong; the law is Com. Law §§ 18-501 to 18-506, read 2026-11-07 on mgaleg.maryland.gov. Sale only after >60 days default; 14-day demand; 10-day sale notice; 3-day ad (newspaper/email/website); late fee max greater of $20 or 20%; surplus mailed certified, if returned held 1 year then presumed abandoned (17-307.1). mdcourts.gov/legalhelp returned 403 to curl so was left out. MD is an ABA Free Legal Answers participating state."
     },
     {
       "n": 47,
@@ -742,10 +746,11 @@
       "slug": "storage-auction-rules",
       "working_title": "Tennessee Storage Unit Auction Rules: Notices, Sale Timeline and Your Rights",
       "primary_keyword": "tennessee storage unit auction laws",
-      "start_with_statute": "Tenn. Code Title 66 Chapter 31 (Self-Service Storage Facility Act \u2014 verify on lex.tn.gov)",
+      "start_with_statute": "Tenn. Code Title 66 Chapter 31 (Self-Service Storage Facility Act — verify on lex.tn.gov)",
       "official_text_at": "lex.tn.gov or law.justia.com Tennessee",
       "legal_aid_to_verify": "TNCourts.gov / Legal Aid Society of Middle Tennessee / LawHelp.org Tennessee",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/tennessee/storage-auction-rules/"
     },
     {
       "n": 48,
@@ -756,7 +761,7 @@
       "slug": "stop-storage-auction",
       "working_title": "How to Stop a Storage Unit Auction in Virginia (and Claim Leftover Money)",
       "primary_keyword": "how to stop storage unit auction virginia",
-      "start_with_statute": "Va. Code \u00a7 55.1-2902 (redemption before public auction)",
+      "start_with_statute": "Va. Code § 55.1-2902 (redemption before public auction)",
       "official_text_at": "law.lis.virginia.gov",
       "legal_aid_to_verify": "VirginiaLawHelp.org",
       "status": "queued"
@@ -786,6 +791,33 @@
       "working_title": "Cheap Storage in Baltimore: How to Avoid Teaser-Rate Traps and Cut Your Bill",
       "primary_keyword": "cheap storage units baltimore",
       "note": "MD auction page is live; cite Com. Law 18-504(l) late-fee cap and 18-504(h) lockout. No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 51,
+      "priority": "normal",
+      "scope": "state",
+      "state": "TN",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Tennessee (and Claim Leftover Money Within 1 Year)",
+      "primary_keyword": "stop storage auction tennessee",
+      "start_with_statute": "Tenn. Code 66-31-105(2)(G), (J), (N) (verified 2026-11-08 on Justia 2025 code)",
+      "official_text_at": "law.justia.com/codes/tennessee/title-66/chapter-31/",
+      "legal_aid_to_verify": "help4tn.org, las.org, laet.org, malsi.org (verified 2026-11-08); wtls.org returned 403 bot block, unverified",
+      "status": "queued"
+    },
+    {
+      "n": 52,
+      "priority": "normal",
+      "scope": "city",
+      "state": "TN",
+      "city": "Nashville",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Nashville: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units nashville",
+      "note": "TN auction page is live; cite Tenn. Code 66-31-104(c) $20/20% late-fee cap and 66-31-106(c) 30-day revision acceptance. No prices unless an official source states them.",
       "status": "queued"
     }
   ]
