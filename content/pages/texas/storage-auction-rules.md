@@ -11,7 +11,7 @@
   "partner_heading": "Got your things back? Compare before you move them",
   "partner_intro": "If you paid off the lien and want a cheaper or closer unit, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-10-27",
-  "updated": "2026-10-27",
+  "updated": "2026-11-09",
   "last_checked": "2026-10-27",
   "quick_facts": [
     "A facility can seize and sell your things without a court judgment only if the contractual landlord's lien is **underlined or in conspicuous bold print** in a written rental agreement [[tx-041]].",
@@ -231,7 +231,7 @@ With newspaper notice, the facility may not sell until the **15th day after the 
 
 ## How to stop the sale
 
-You can **redeem** your property before it's sold or otherwise disposed of by paying the facility the amount of the lien plus its reasonable expenses under chapter 59 [[tx-008]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled. If the sale date is close and you can't pay, contact free legal help right away.
+You can **redeem** your property before it's sold or otherwise disposed of by paying the facility the amount of the lien plus its reasonable expenses under chapter 59 [[tx-008]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled. If the sale date is close and you can't pay, contact free legal help right away. See our step-by-step guide: [How to stop a storage auction in Texas](/texas/stop-storage-auction/).
 
 If you're a member of the Texas State Guard or Texas National Guard in military service, you get the same storage-lien protections as servicemembers under the federal Servicemembers Civil Relief Act [[tx-010]]. Tell the facility in writing; it may ask for documentation [[tx-043]].
 

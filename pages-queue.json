@@ -95,6 +95,11 @@
     {
       "url_path": "/tennessee/storage-auction-rules/",
       "published": "2026-11-08"
+    },
+    {
+      "url_path": "/texas/stop-storage-auction/",
+      "published": "2026-11-09",
+      "statute": "Tex. Prop. Code 59.007, 59.008, 59.042-59.046"
     }
   ],
   "queue": [
@@ -268,7 +273,8 @@
       "start_with_statute": "Tex. Prop. Code ch. 59 (Self-Service Storage Facilities)",
       "official_text_at": "statutes.capitol.texas.gov",
       "legal_aid_to_verify": "TexasLawHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/texas/stop-storage-auction/"
     },
     {
       "n": 12,
@@ -818,6 +824,32 @@
       "working_title": "Cheap Storage in Nashville: How to Avoid Teaser-Rate Traps and Cut Your Bill",
       "primary_keyword": "cheap storage units nashville",
       "note": "TN auction page is live; cite Tenn. Code 66-31-104(c) $20/20% late-fee cap and 66-31-106(c) 30-day revision acceptance. No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 53,
+      "priority": "normal",
+      "scope": "city",
+      "state": "TX",
+      "city": "Austin",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Austin: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units austin",
+      "note": "TX auction and stop-auction pages are live; ch. 59 has no late-fee cap, so the rental agreement controls (verified 2026-11-09). No prices unless an official source states them.",
+      "status": "queued"
+    },
+    {
+      "n": 54,
+      "priority": "normal",
+      "scope": "state",
+      "state": "TX",
+      "topic": "auction-rules",
+      "slug": "storage-vehicle-boat-towing",
+      "working_title": "Texas Storage Facilities and Your Car or Boat: Towing and the 31-Day Notice",
+      "primary_keyword": "storage unit car towed texas",
+      "start_with_statute": "Tex. Prop. Code 59.0445, 59.051-59.055 (verified 2026-11-09) and Occ. Code ch. 2303 subch. D",
+      "official_text_at": "statutes.capitol.texas.gov (WebFetch)",
       "status": "queued"
     }
   ]
