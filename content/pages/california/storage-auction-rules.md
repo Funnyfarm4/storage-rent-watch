@@ -11,7 +11,7 @@
   "partner_heading": "Got your things back? Compare before you move them",
   "partner_intro": "If you paid off the lien and want a cheaper or closer unit, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-10-28",
-  "updated": "2026-10-28",
+  "updated": "2026-11-10",
   "last_checked": "2026-10-28",
   "quick_facts": [
     "The facility can start the lien process once rent or other charges are unpaid for **14 consecutive days** [[ca-03]].",
@@ -234,7 +234,7 @@ You have three options under the statute:
 - **Return the declaration in opposition** if you believe the lien isn't valid (for example, you already paid). Fill in every section, including a physical address and phone number where you can be served, sign it under penalty of perjury, and send it by **certified mail** so it arrives on or before the date in the notice [[ca-05]] [[ca-06]]. The owner then can't sell unless it wins in small claims or another court [[ca-10]]. You may owe court costs if the owner wins [[ca-05]].
 - **Pay the lien plus one month's rent in advance** before the sale if you claim a right to the goods. The goods are then held pending a court order, and if none is obtained within 30 days you must keep paying monthly rent or the owner may sell [[ca-09]].
 
-Ask for an itemized payoff in writing, pay in a way that leaves a record, and get written confirmation that the sale is cancelled. If the sale date is close and you're unsure what to do, contact free legal help right away.
+Ask for an itemized payoff in writing, pay in a way that leaves a record, and get written confirmation that the sale is cancelled. If the sale date is close and you're unsure what to do, contact free legal help right away. See our step-by-step guide: [How to stop a storage auction in California](/california/stop-storage-auction/).
 
 {{legal-help}}
 

@@ -100,6 +100,10 @@
       "url_path": "/texas/stop-storage-auction/",
       "published": "2026-11-09",
       "statute": "Tex. Prop. Code 59.007, 59.008, 59.042-59.046"
+    },
+    {
+      "url_path": "/california/stop-storage-auction/",
+      "published": "2026-11-10"
     }
   ],
   "queue": [
@@ -288,7 +292,8 @@
       "start_with_statute": "Cal. Bus. & Prof. Code §§ 21700-21716",
       "official_text_at": "leginfo.legislature.ca.gov",
       "legal_aid_to_verify": "LawHelpCA.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/california/stop-storage-auction/"
     },
     {
       "n": 13,
@@ -534,7 +539,7 @@
       "start_with_statute": "Cal. Bus. & Prof. Code 21705(b)(2), 21706, 21710",
       "official_text_at": "leginfo.legislature.ca.gov (WebFetch)",
       "status": "queued",
-      "note": "Could fold into queued #12 (CA stop-auction) instead of a separate page."
+      "note": "Declaration in opposition steps now covered on /california/stop-storage-auction/ (2026-11-10). A separate page would mostly duplicate it; lower value."
     },
     {
       "n": 32,
@@ -850,6 +855,19 @@
       "primary_keyword": "storage unit car towed texas",
       "start_with_statute": "Tex. Prop. Code 59.0445, 59.051-59.055 (verified 2026-11-09) and Occ. Code ch. 2303 subch. D",
       "official_text_at": "statutes.capitol.texas.gov (WebFetch)",
+      "status": "queued"
+    },
+    {
+      "n": 55,
+      "priority": "normal",
+      "scope": "state",
+      "state": "CA",
+      "topic": "auction-rules",
+      "slug": "storage-lien-notice-by-email",
+      "working_title": "California Storage Lien Notices by Email: The 2026 Proof-of-Receipt Rule (AB 498)",
+      "primary_keyword": "storage lien notice email california",
+      "start_with_statute": "Cal. Bus. & Prof. Code 21712(c) as amended by AB 498, eff. 2026-01-01 (verified 2026-11-10)",
+      "official_text_at": "leginfo.legislature.ca.gov (WebFetch)",
       "status": "queued"
     }
   ]

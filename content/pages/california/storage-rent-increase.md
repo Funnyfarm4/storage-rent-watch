@@ -160,7 +160,7 @@ For agreements signed on or after January 1, 2026, the first-page disclosures ab
 
 Don't withhold rent to protest an increase. Unpaid charges can start the lien process after **14 consecutive days**, and the facility can later deny access and sell your property [[ca-03]]. Late fees also apply once rent is at least **10 days** overdue: only one fee per missed payment, the amount must be in your agreement, and the cap is $10 if monthly rent is $60 or less, $15 if rent is over $60 but under $100, or the greater of $20 or 15% of monthly rent if rent is $100 or more [[ca-135]].
 
-For the full lien-sale timeline, declaration in opposition and leftover-money rules, see [California storage auction rules](/california/storage-auction-rules/).
+For the full lien-sale timeline, declaration in opposition and leftover-money rules, see [California storage auction rules](/california/storage-auction-rules/). If you already have a notice of lien sale, see [how to stop a storage auction in California](/california/stop-storage-auction/).
 
 ## Negotiate, shrink or move
 
