@@ -11,7 +11,7 @@
   "partner_heading": "Moving out after you pay?",
   "partner_intro": "Once your things are back, you may want a cheaper or closer place to keep them. Compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-11-09",
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "last_checked": "2026-11-09",
   "quick_facts": [
     "You can **redeem** your property **before** it's sold or otherwise disposed of by paying the lien amount plus the facility's reasonable expenses under chapter 59 [[tx-008]].",
@@ -195,4 +195,4 @@ A person injured by a violation of chapter 59 may sue for damages under the Texa
 
 {{partner-box}}
 
-Full rules: [Texas storage unit auction rules](/texas/storage-auction-rules/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)
+Full rules: [Texas storage unit auction rules](/texas/storage-auction-rules/). In Florida? See [how to stop a storage auction in Florida](/florida/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)

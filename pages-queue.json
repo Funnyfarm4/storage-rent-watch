@@ -104,6 +104,10 @@
     {
       "url_path": "/california/stop-storage-auction/",
       "published": "2026-11-10"
+    },
+    {
+      "url_path": "/florida/stop-storage-auction/",
+      "published": "2026-11-11"
     }
   ],
   "queue": [
@@ -307,7 +311,9 @@
       "start_with_statute": "Fla. Stat. §§ 83.801-83.809 (Self-Storage Facility Act)",
       "official_text_at": "leg.state.fl.us / flsenate.gov",
       "legal_aid_to_verify": "FloridaLawHelp.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/florida/stop-storage-auction/",
+      "note_published": "Verified 2026-11-11 from leg.state.fl.us ss. 83.803, 83.805, 83.8055, 83.806, 83.808. 83.807 does not exist on the official site (not cited)."
     },
     {
       "n": 14,

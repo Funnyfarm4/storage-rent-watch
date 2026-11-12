@@ -11,7 +11,7 @@
   "partner_heading": "Moving out after you pay?",
   "partner_intro": "Once your things are back, you may want a cheaper or closer place to keep them. Compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-11-10",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "last_checked": "2026-11-10",
   "quick_facts": [
     "Pay the **full lien amount** before the date in the notice of lien sale and you get full use of your space back [[ca-05]].",
@@ -206,4 +206,4 @@ You can file a consumer complaint with the California Attorney General [[ca-ag]]
 
 {{partner-box}}
 
-Full rules: [California storage unit auction rules](/california/storage-auction-rules/). Rent going up? See [California storage rent increases](/california/storage-rent-increase/).
+Full rules: [California storage unit auction rules](/california/storage-auction-rules/). In Florida? See [how to stop a storage auction in Florida](/florida/stop-storage-auction/). Rent going up? See [California storage rent increases](/california/storage-rent-increase/).

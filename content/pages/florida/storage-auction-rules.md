@@ -11,7 +11,7 @@
   "partner_heading": "Got your things back? Compare before you move them",
   "partner_intro": "If you paid off the lien and want a cheaper or closer unit, compare a few options and ask what the rent will be after any move-in special ends.",
   "published": "2026-10-29",
-  "updated": "2026-11-02",
+  "updated": "2026-11-11",
   "last_checked": "2026-10-29",
   "quick_facts": [
     "If rent isn't paid, the facility can **lock you out after 5 days** from the due date, without notice [[fl-8055]].",
@@ -149,7 +149,7 @@ The sale must take place **at least 15 days after the first ad**. It can be held
 
 ## How to stop the sale
 
-Before any sale or other disposition, you can **redeem** your property by paying the amount needed to satisfy the lien plus the reasonable expenses the facility incurred enforcing it. Once you pay, the facility must return your property [[fl-806]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled. If the sale date is close and you can't pay, contact free legal help right away.
+Before any sale or other disposition, you can **redeem** your property by paying the amount needed to satisfy the lien plus the reasonable expenses the facility incurred enforcing it. Once you pay, the facility must return your property [[fl-806]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled. If the sale date is close and you can't pay, contact free legal help right away. See our step-by-step guide: [How to stop a storage auction in Florida](/florida/stop-storage-auction/).
 
 If you don't redeem or pay the lien, the law treats you as having abandoned the unit, and the facility can take the space back [[fl-806]].
 
