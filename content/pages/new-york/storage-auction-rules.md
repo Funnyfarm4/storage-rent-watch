@@ -128,7 +128,7 @@ A sale isn't unreasonable just because a better price was possible at another ti
 
 ### Option 1: Pay before the sale
 
-Under the general lien-sale article, you can **redeem** at any time before the sale by paying the amount due on the lien plus legitimate expenses already spent serving the notice and advertising. You're then entitled to your property [[ny-203]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled.
+Under the general lien-sale article, you can **redeem** at any time before the sale by paying the amount due on the lien plus legitimate expenses already spent serving the notice and advertising. You're then entitled to your property [[ny-203]]. Ask for an itemized payoff amount in writing, pay in a way that leaves a record, and get a receipt and written confirmation that the sale is cancelled. See our step-by-step guide: [How to stop a storage auction in New York](/new-york/stop-storage-auction/).
 
 ### Option 2: Challenge the lien in court within 10 days
 

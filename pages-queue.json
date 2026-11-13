@@ -108,6 +108,10 @@
     {
       "url_path": "/florida/stop-storage-auction/",
       "published": "2026-11-11"
+    },
+    {
+      "url_path": "/new-york/stop-storage-auction/",
+      "published": "2026-11-12"
     }
   ],
   "queue": [
@@ -327,7 +331,8 @@
       "start_with_statute": "N.Y. Lien Law § 182",
       "official_text_at": "nysenate.gov/legislation",
       "legal_aid_to_verify": "LawHelpNY.org",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/new-york/stop-storage-auction/"
     },
     {
       "n": 15,

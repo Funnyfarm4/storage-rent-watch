@@ -140,4 +140,4 @@ If your rental agreement limits the value of what you can store, that limit is t
 
 {{partner-box}}
 
-Full rules: [Florida storage unit auction rules](/florida/storage-auction-rules/). Other states: [stop an auction in Texas](/texas/stop-storage-auction/) and [California](/california/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)
+Full rules: [Florida storage unit auction rules](/florida/storage-auction-rules/). Other states: [stop an auction in Texas](/texas/stop-storage-auction/), [California](/california/stop-storage-auction/) and [New York](/new-york/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)
