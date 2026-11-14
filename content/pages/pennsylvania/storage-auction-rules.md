@@ -241,6 +241,8 @@ Before the sale or other disposition, you can pay the amount needed to satisfy t
 2. Pay in a way that leaves a record, and get a receipt plus written confirmation that the sale is cancelled.
 3. If you think the bill is wrong or the notice didn't follow the rules, get free legal help right away. Chapter 56 doesn't set out a special court process for disputing the lien, so a lawyer can tell you your options.
 
+See our step-by-step guide: [How to stop a storage auction in Pennsylvania](/pennsylvania/stop-storage-auction/).
+
 {{legal-help}}
 
 You can also [submit a complaint to the Pennsylvania Attorney General](https://www.attorneygeneral.gov/submit-a-complaint/) [[pa-ag]].

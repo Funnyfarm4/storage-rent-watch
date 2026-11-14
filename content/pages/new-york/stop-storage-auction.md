@@ -137,4 +137,4 @@ Start by asking the facility in writing, and keep a copy. If more than 30 days h
 
 {{partner-box}}
 
-Full rules: [New York storage unit auction rules](/new-york/storage-auction-rules/). Other states: [stop an auction in Florida](/florida/stop-storage-auction/), [Texas](/texas/stop-storage-auction/) and [California](/california/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)
+Full rules: [New York storage unit auction rules](/new-york/storage-auction-rules/). Other states: [stop an auction in Pennsylvania](/pennsylvania/stop-storage-auction/), [Florida](/florida/stop-storage-auction/), [Texas](/texas/stop-storage-auction/) and [California](/california/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)

@@ -112,6 +112,10 @@
     {
       "url_path": "/new-york/stop-storage-auction/",
       "published": "2026-11-12"
+    },
+    {
+      "url_path": "/pennsylvania/stop-storage-auction/",
+      "published": "2026-11-13"
     }
   ],
   "queue": [
@@ -346,7 +350,9 @@
       "start_with_statute": "12 Pa.C.S. Ch. 56 (5606, 5607, 5610, 5614), which replaced 73 P.S. 1901 et seq. (repealed by Act 51 of 2025)",
       "official_text_at": "palegis.us Act 51 of 2025 PDF",
       "legal_aid_to_verify": "PALawHelp.org and palegalaid.net (verified 2026-10-31)",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/pennsylvania/stop-storage-auction/",
+      "note": "Published 2026-11-13 from Act 51 of 2025 PDF (12 Pa.C.S. 5602-5616). Ch. 56 has no court process for disputing a lien; no partial-payment rule."
     },
     {
       "n": 16,
