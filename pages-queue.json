@@ -116,6 +116,10 @@
     {
       "url_path": "/pennsylvania/stop-storage-auction/",
       "published": "2026-11-13"
+    },
+    {
+      "url_path": "/ohio/stop-storage-auction/",
+      "published": "2026-11-14"
     }
   ],
   "queue": [
@@ -366,7 +370,9 @@
       "start_with_statute": "ORC 5322.03(H)",
       "official_text_at": "codes.ohio.gov",
       "legal_aid_to_verify": "Ohio Legal Help (verified)",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/ohio/stop-storage-auction/",
+      "note": "Published 2026-11-14 from ORC 5322.01-.03, .05, .06 (codes.ohio.gov, checked 2026-11-14). ORC 5322.03 sets no minimum days in default before the lien notice and Chapter 5322 has no dispute court process; neither stated."
     },
     {
       "n": 17,
@@ -885,6 +891,31 @@
       "primary_keyword": "storage lien notice email california",
       "start_with_statute": "Cal. Bus. & Prof. Code 21712(c) as amended by AB 498, eff. 2026-01-01 (verified 2026-11-10)",
       "official_text_at": "leginfo.legislature.ca.gov (WebFetch)",
+      "status": "queued"
+    },
+    {
+      "n": 56,
+      "priority": "normal",
+      "scope": "state",
+      "state": "OH",
+      "topic": "auction-rules",
+      "slug": "storage-vehicle-boat-towing",
+      "working_title": "Ohio Storage Facilities and Your Car, Trailer or Boat: When They Can Be Towed",
+      "primary_keyword": "storage unit car towed ohio",
+      "start_with_statute": "ORC 5322.03(H)(1), (K) (verified 2026-11-14)",
+      "official_text_at": "codes.ohio.gov",
+      "status": "queued"
+    },
+    {
+      "n": 57,
+      "priority": "normal",
+      "scope": "national",
+      "topic": "stop-auction",
+      "slug": "pay-storage-lien-must-move-out",
+      "working_title": "Paid Your Storage Lien? States Where You Must Move Out Right Away",
+      "primary_keyword": "paid storage lien do i have to move out",
+      "start_with_statute": "ORC 5322.03(H)(4) (verified 2026-11-14); compare each published state's redemption section",
+      "official_text_at": "each state's official code site",
       "status": "queued"
     }
   ]

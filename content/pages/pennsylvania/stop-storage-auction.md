@@ -213,4 +213,4 @@ If you stored someone else's property, your rental agreement should ask you to t
 
 {{partner-box}}
 
-Full rules: [Pennsylvania storage unit auction rules](/pennsylvania/storage-auction-rules/). Other states: [stop an auction in New York](/new-york/stop-storage-auction/), [Florida](/florida/stop-storage-auction/), [Texas](/texas/stop-storage-auction/) and [California](/california/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)
+Full rules: [Pennsylvania storage unit auction rules](/pennsylvania/storage-auction-rules/). Other states: [stop an auction in Ohio](/ohio/stop-storage-auction/), [New York](/new-york/stop-storage-auction/), [Florida](/florida/stop-storage-auction/), [Texas](/texas/stop-storage-auction/) and [California](/california/stop-storage-auction/). Rent going up? See [My storage rent went up. What can I do?](/storage-rent-increase/)

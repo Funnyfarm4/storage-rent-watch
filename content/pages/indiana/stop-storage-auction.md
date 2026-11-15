@@ -143,4 +143,4 @@ To complain about a storage facility, you can contact the Indiana Attorney Gener
 
 {{partner-box}}
 
-Full rules: [Indiana storage unit auction rules](/indiana/storage-auction-rules/).
+Full rules: [Indiana storage unit auction rules](/indiana/storage-auction-rules/). Neighboring state: [stop a storage auction in Ohio](/ohio/stop-storage-auction/).
