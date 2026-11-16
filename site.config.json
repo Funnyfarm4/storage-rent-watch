@@ -21,7 +21,8 @@
     "VA": "Virginia",
     "WA": "Washington",
     "MD": "Maryland",
-    "TN": "Tennessee"
+    "TN": "Tennessee",
+    "NJ": "New Jersey"
   },
   "affiliates": {
     "sparefoot": {
@@ -50,7 +51,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-08",
+    "checked": "2026-11-15",
     "national": [
       {
         "name": "LawHelp.org",
@@ -332,6 +333,21 @@
             "name": "Memphis Area Legal Services",
             "url": "https://malsi.org/",
             "blurb": "Free civil legal help and legal clinics for eligible people in the Memphis area."
+          }
+        ]
+      },
+      "NJ": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Legal Services of New Jersey (LSNJLAW Hotline)",
+            "url": "https://www.lsnj.org/",
+            "blurb": "Statewide nonprofit coordinating free civil legal aid in New Jersey. Call the free LSNJLAW hotline at 1-888-576-5529 or apply online."
+          },
+          {
+            "name": "LSNJLAW",
+            "url": "https://www.lsnjlaw.org/",
+            "blurb": "Legal Services of New Jersey's free legal information website, with plain-language guides on New Jersey legal rights."
           }
         ]
       }

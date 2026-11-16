@@ -120,6 +120,11 @@
     {
       "url_path": "/ohio/stop-storage-auction/",
       "published": "2026-11-14"
+    },
+    {
+      "url_path": "/new-jersey/storage-auction-rules/",
+      "published": "2026-11-15",
+      "statute": "N.J.S.A. 2A:44-187 to 2A:44-193"
     }
   ],
   "queue": [
@@ -916,6 +921,90 @@
       "primary_keyword": "paid storage lien do i have to move out",
       "start_with_statute": "ORC 5322.03(H)(4) (verified 2026-11-14); compare each published state's redemption section",
       "official_text_at": "each state's official code site",
+      "status": "queued"
+    },
+    {
+      "n": 58,
+      "priority": "high",
+      "scope": "state",
+      "state": "NJ",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "New Jersey Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "new jersey storage unit auction laws",
+      "start_with_statute": "N.J.S.A. 2A:44-187 to 2A:44-193, incl. 2A:44-189.1 and 2A:44-191.1 (verified 2026-11-15)",
+      "official_text_at": "pub.njleg.gov session laws; law.justia.com New Jersey",
+      "legal_aid_to_verify": "Legal Services of New Jersey (lsnj.org), LSNJLAW (lsnjlaw.org)",
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/new-jersey/storage-auction-rules/",
+      "notes": "Added and published 2026-11-15 (high-priority queue was empty; NJ was the largest state without a page). Left out: how P.L.2025, c.72 (online legal notices after March 1, 2026) applies to individual storage-sale ads beyond the general rule; no agency guidance found. Act sets no lockout timing, rent-increase notice, or deadline for claiming leftover money. njcourts.gov self-help returns 403 to scripts, so it was not added to legal help."
+    },
+    {
+      "n": 59,
+      "priority": "high",
+      "scope": "state",
+      "state": "AZ",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Arizona Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "arizona storage unit auction laws",
+      "start_with_statute": "A.R.S. Title 33, Chapter 10 (self-service storage, approx. 33-1701 et seq.; verify)",
+      "official_text_at": "azleg.gov/arstitle",
+      "legal_aid_to_verify": "AZLawHelp.org / Community Legal Services",
+      "status": "queued"
+    },
+    {
+      "n": 60,
+      "priority": "high",
+      "scope": "state",
+      "state": "MA",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Massachusetts Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "massachusetts storage unit auction laws",
+      "start_with_statute": "M.G.L. c. 105A (self-service storage facilities; verify)",
+      "official_text_at": "malegislature.gov/Laws/GeneralLaws",
+      "legal_aid_to_verify": "MassLegalHelp.org",
+      "status": "queued"
+    },
+    {
+      "n": 61,
+      "priority": "high",
+      "scope": "state",
+      "state": "CO",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Colorado Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "colorado storage unit auction laws",
+      "start_with_statute": "C.R.S. 38-21.5-101 et seq. (verify)",
+      "official_text_at": "leg.colorado.gov / law.justia.com Colorado",
+      "legal_aid_to_verify": "Colorado Legal Services / ColoradoLegalHelp",
+      "status": "queued"
+    },
+    {
+      "n": 62,
+      "priority": "normal",
+      "scope": "state",
+      "state": "NJ",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in New Jersey (and Claim Leftover Sale Money)",
+      "primary_keyword": "stop storage auction new jersey",
+      "start_with_statute": "N.J.S.A. 2A:44-191(i), (k) (verified 2026-11-15)",
+      "official_text_at": "pub.njleg.gov; law.justia.com New Jersey",
+      "legal_aid_to_verify": "lsnj.org, lsnjlaw.org (verified 2026-11-15)",
+      "status": "queued"
+    },
+    {
+      "n": 63,
+      "priority": "normal",
+      "scope": "city",
+      "state": "NJ",
+      "city": "Newark",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Newark, NJ: How to Avoid Rent Hikes and Fees",
+      "primary_keyword": "cheap storage newark nj",
       "status": "queued"
     }
   ]
