@@ -22,7 +22,8 @@
     "WA": "Washington",
     "MD": "Maryland",
     "TN": "Tennessee",
-    "NJ": "New Jersey"
+    "NJ": "New Jersey",
+    "AZ": "Arizona"
   },
   "affiliates": {
     "sparefoot": {
@@ -51,7 +52,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-15",
+    "checked": "2026-11-16",
     "national": [
       {
         "name": "LawHelp.org",
@@ -348,6 +349,31 @@
             "name": "LSNJLAW",
             "url": "https://www.lsnjlaw.org/",
             "blurb": "Legal Services of New Jersey's free legal information website, with plain-language guides on New Jersey legal rights."
+          }
+        ]
+      },
+      "AZ": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "AZLawHelp.org",
+            "url": "https://www.azlawhelp.org/",
+            "blurb": "Arizona legal information and a single place to apply for free or reduced-fee legal help if you qualify. Call 866-637-5341 or apply online."
+          },
+          {
+            "name": "Community Legal Services",
+            "url": "https://clsaz.org/",
+            "blurb": "Nonprofit law firm giving free civil legal help, including consumer and housing matters, to eligible Arizonans."
+          },
+          {
+            "name": "DNA People's Legal Services",
+            "url": "https://dnalegalservices.org/",
+            "blurb": "Nonprofit civil legal aid for eligible low-income people. Check its site for the areas it serves."
+          },
+          {
+            "name": "AZCourtHelp.org",
+            "url": "https://azcourthelp.org/",
+            "blurb": "Free Arizona court forms, a self-help center, legal aid options and live chat."
           }
         ]
       }

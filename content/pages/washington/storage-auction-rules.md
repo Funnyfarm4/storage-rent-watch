@@ -257,6 +257,6 @@ Chapter 19.150 does not create a special statutory damages amount for noncomplia
 - **Value caps in the lease:** if your rental agreement sets a limit on the value of property you may store, that limit is the maximum value for the owner's **liability** only [[wa-ch]].
 - **Rent increases:** chapter 19.150 doesn't set a rent-increase notice period, so your agreement controls [[wa-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [California storage auction rules](/california/storage-auction-rules/), plus [Texas storage auction rules](/texas/storage-auction-rules/) and [Michigan storage auction rules](/michigan/storage-auction-rules/).
+Compare with [California storage auction rules](/california/storage-auction-rules/) and [Arizona storage auction rules](/arizona/storage-auction-rules/), plus [Texas storage auction rules](/texas/storage-auction-rules/) and [Michigan storage auction rules](/michigan/storage-auction-rules/).
 
 {{partner-box}}

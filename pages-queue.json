@@ -125,6 +125,11 @@
       "url_path": "/new-jersey/storage-auction-rules/",
       "published": "2026-11-15",
       "statute": "N.J.S.A. 2A:44-187 to 2A:44-193"
+    },
+    {
+      "url_path": "/arizona/storage-auction-rules/",
+      "published": "2026-11-16",
+      "statute": "A.R.S. 33-1701 to 33-1706"
     }
   ],
   "queue": [
@@ -951,7 +956,10 @@
       "start_with_statute": "A.R.S. Title 33, Chapter 10 (self-service storage, approx. 33-1701 et seq.; verify)",
       "official_text_at": "azleg.gov/arstitle",
       "legal_aid_to_verify": "AZLawHelp.org / Community Legal Services",
-      "status": "queued"
+      "status": "published",
+      "published_url": "https://funnyfarm4.github.io/storage-rent-watch/arizona/storage-auction-rules/",
+      "verified_statute": "A.R.S. 33-1701 to 33-1706 (Title 33, Chapter 15, not Chapter 10 as queued)",
+      "unverified_left_out": "Statute has no newspaper ad step, no online-sale rule, no rent-increase notice rule. Southern Arizona Legal Aid (sazlegalaid.org) left out of legal help: served a bot-check page, could not confirm content. 33-1704(H)(6) names Dept of Revenue but also \"director of the department of administration\" for claims; described via ADOR unclaimed property."
     },
     {
       "n": 60,
@@ -1005,6 +1013,31 @@
       "slug": "cheap-storage",
       "working_title": "Cheap Storage in Newark, NJ: How to Avoid Rent Hikes and Fees",
       "primary_keyword": "cheap storage newark nj",
+      "status": "queued"
+    },
+    {
+      "n": 64,
+      "priority": "normal",
+      "scope": "state",
+      "state": "AZ",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Arizona",
+      "primary_keyword": "stop storage auction arizona",
+      "start_with_statute": "A.R.S. 33-1704(C) redemption; 33-1704(H)(6) leftover money (verified 2026-11-16, re-check)",
+      "note": "AZ legal_help entry now exists.",
+      "status": "queued"
+    },
+    {
+      "n": 65,
+      "priority": "normal",
+      "scope": "state",
+      "state": "WA",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Washington",
+      "primary_keyword": "stop storage auction washington state",
+      "start_with_statute": "RCW 19.150 (verify)",
       "status": "queued"
     }
   ]

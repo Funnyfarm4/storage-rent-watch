@@ -264,4 +264,6 @@ If your agreement ends and property is still in the unit, the owner must send wr
 
 You can file a consumer complaint with the California Attorney General [[ca-ag]], and the free legal help above can tell you whether you have a claim.
 
+Compare with neighboring [Arizona storage auction rules](/arizona/storage-auction-rules/), plus [Washington storage auction rules](/washington/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
+
 {{partner-box}}

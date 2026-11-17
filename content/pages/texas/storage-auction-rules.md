@@ -250,4 +250,6 @@ A person injured by a violation of chapter 59 may sue for damages under the Texa
 - **No living in the unit:** a tenant may not use a storage unit as a residence or let anyone else do so [[tx-009]].
 - **Late fees and rent increases:** chapter 59 has no section setting a late-fee cap or a rent-increase notice period, so your rental agreement controls those terms [[tx-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
+Compare with [Arizona storage auction rules](/arizona/storage-auction-rules/), plus [Florida storage auction rules](/florida/storage-auction-rules/) and [California storage auction rules](/california/storage-auction-rules/).
+
 {{partner-box}}
