@@ -23,7 +23,8 @@
     "MD": "Maryland",
     "TN": "Tennessee",
     "NJ": "New Jersey",
-    "AZ": "Arizona"
+    "AZ": "Arizona",
+    "MA": "Massachusetts"
   },
   "affiliates": {
     "sparefoot": {
@@ -52,7 +53,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-16",
+    "checked": "2026-11-17",
     "national": [
       {
         "name": "LawHelp.org",
@@ -374,6 +375,21 @@
             "name": "AZCourtHelp.org",
             "url": "https://azcourthelp.org/",
             "blurb": "Free Arizona court forms, a self-help center, legal aid options and live chat."
+          }
+        ]
+      },
+      "MA": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "MassLegalHelp.org",
+            "url": "https://www.masslegalhelp.org/",
+            "blurb": "Free Massachusetts legal information written or reviewed by staff from the state's legal services programs."
+          },
+          {
+            "name": "Massachusetts Legal Resource Finder",
+            "url": "https://masslrf.org/",
+            "blurb": "Answer a few questions to find free or low-cost legal help near you in Massachusetts."
           }
         ]
       }

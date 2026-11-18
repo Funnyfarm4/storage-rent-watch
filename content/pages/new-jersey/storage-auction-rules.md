@@ -202,6 +202,6 @@ If you can't reach the owner, you can also search New Jersey's official [unclaim
 - **No living in units:** no occupant may use a self-service storage facility for residential purposes [[nj-188]].
 - **Rent increases:** the Act doesn't set a rent-increase notice period, so your agreement controls [[nj-187]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with neighboring [New York storage auction rules](/new-york/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), plus [Maryland storage auction rules](/maryland/storage-auction-rules/) and [Florida storage auction rules](/florida/storage-auction-rules/).
+Compare with neighboring [New York storage auction rules](/new-york/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), plus [Massachusetts storage auction rules](/massachusetts/storage-auction-rules/), [Maryland storage auction rules](/maryland/storage-auction-rules/) and [Florida storage auction rules](/florida/storage-auction-rules/).
 
 {{partner-box}}
