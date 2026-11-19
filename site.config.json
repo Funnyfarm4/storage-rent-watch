@@ -24,7 +24,8 @@
     "TN": "Tennessee",
     "NJ": "New Jersey",
     "AZ": "Arizona",
-    "MA": "Massachusetts"
+    "MA": "Massachusetts",
+    "CO": "Colorado"
   },
   "affiliates": {
     "sparefoot": {
@@ -53,7 +54,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "national": [
       {
         "name": "LawHelp.org",
@@ -390,6 +391,21 @@
             "name": "Massachusetts Legal Resource Finder",
             "url": "https://masslrf.org/",
             "blurb": "Answer a few questions to find free or low-cost legal help near you in Massachusetts."
+          }
+        ]
+      },
+      "CO": {
+        "aba_free_legal_answers": false,
+        "links": [
+          {
+            "name": "Colorado Legal Services",
+            "url": "https://www.coloradolegalservices.org/",
+            "blurb": "Free civil legal help for low-income Coloradans from the state's statewide legal aid nonprofit."
+          },
+          {
+            "name": "Colorado Judicial Branch Self-Help Resources",
+            "url": "https://www.coloradojudicial.gov/self-help-resources",
+            "blurb": "Free self-help resources, court forms and help finding legal assistance from Colorado's courts."
           }
         ]
       }

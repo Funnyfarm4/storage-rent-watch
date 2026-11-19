@@ -176,6 +176,6 @@ If you don't claim your balance within **90 days after the sale**, the operator 
 - **Warehouses:** the law doesn't apply to a warehouse operator unless it issues a warehouse receipt, bill of lading or other document of title for the stored property [[az-1701]].
 - **Rent increases:** the law doesn't set a rent-increase notice period, so your agreement controls [[az-ch]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with neighboring [California storage auction rules](/california/storage-auction-rules/), plus [Texas storage auction rules](/texas/storage-auction-rules/) and [Washington storage auction rules](/washington/storage-auction-rules/).
+Compare with neighboring [California storage auction rules](/california/storage-auction-rules/) and [Colorado storage auction rules](/colorado/storage-auction-rules/), plus [Texas storage auction rules](/texas/storage-auction-rules/) and [Washington storage auction rules](/washington/storage-auction-rules/).
 
 {{partner-box}}
