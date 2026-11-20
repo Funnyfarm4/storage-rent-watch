@@ -139,6 +139,11 @@
       "url_path": "/colorado/storage-auction-rules/",
       "published": "2026-11-18",
       "statute": "C.R.S. 38-21.5-101 to 38-21.5-105"
+    },
+    {
+      "url_path": "/minnesota/storage-auction-rules/",
+      "published": "2026-11-19",
+      "statute": "Minn. Stat. 514.970 to 514.979"
     }
   ],
   "queue": [
@@ -1119,8 +1124,38 @@
       "start_with_statute": "Minn. Stat. 514.970 to 514.979 (verify)",
       "official_text_at": "revisor.mn.gov",
       "legal_aid_to_verify": "LawHelpMN.org; MN Legal Advice Online (ABA site)",
-      "status": "queued",
-      "n": 70
+      "status": "published",
+      "n": 70,
+      "published_url": "/minnesota/storage-auction-rules/",
+      "verified_note": "Verified 2026-11-19 on revisor.mn.gov (2026 Minnesota Statutes), sections 514.970-514.979. Statute sets no late-fee cap and no rent-increase notice period (left out). Legal aid: LawHelpMN.org, Minnesota Legal Advice Online (mnlegaladvice.org; MN is NOT an ABA Free Legal Answers participating state per abafreelegalanswers.org), Mid-Minnesota Legal Aid, SMRLS. mncourts.gov self-help returned 403 to the box, so it was not added."
+    },
+    {
+      "n": 71,
+      "priority": "high",
+      "scope": "state",
+      "state": "WI",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Wisconsin Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "wisconsin storage unit auction laws",
+      "start_with_statute": "Wis. Stat. 704.90 (verify)",
+      "official_text_at": "docs.legis.wisconsin.gov",
+      "legal_aid_to_verify": "Legal Action of Wisconsin; Wisconsin Judicare; ABA Free Legal Answers participation (check)",
+      "status": "queued"
+    },
+    {
+      "n": 72,
+      "priority": "high",
+      "scope": "state",
+      "state": "MO",
+      "topic": "auction-rules",
+      "slug": "storage-auction-rules",
+      "working_title": "Missouri Storage Unit Auction Rules: Notices, Timeline and Your Rights",
+      "primary_keyword": "missouri storage unit auction laws",
+      "start_with_statute": "RSMo 415.400 to 415.425 (verify)",
+      "official_text_at": "revisor.mo.gov",
+      "legal_aid_to_verify": "Legal Services of Eastern Missouri; Legal Aid of Western Missouri; a statewide Missouri legal aid site (find and verify); ABA Free Legal Answers participation (check)",
+      "status": "queued"
     }
   ]
 }

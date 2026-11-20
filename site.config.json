@@ -25,7 +25,8 @@
     "NJ": "New Jersey",
     "AZ": "Arizona",
     "MA": "Massachusetts",
-    "CO": "Colorado"
+    "CO": "Colorado",
+    "MN": "Minnesota"
   },
   "affiliates": {
     "sparefoot": {
@@ -54,7 +55,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "national": [
       {
         "name": "LawHelp.org",
@@ -408,6 +409,31 @@
             "blurb": "Free self-help resources, court forms and help finding legal assistance from Colorado's courts."
           }
         ]
+      },
+      "MN": {
+        "aba_free_legal_answers": false,
+        "links": [
+          {
+            "name": "LawHelpMN.org",
+            "url": "https://www.lawhelpmn.org/",
+            "blurb": "Minnesota's statewide legal help site: self-help information and a directory of free and low-cost legal aid."
+          },
+          {
+            "name": "Minnesota Legal Advice Online",
+            "url": "https://www.mnlegaladvice.org/",
+            "blurb": "Low-income Minnesota residents age 14 and older can ask volunteer lawyers a legal question online, confidentially."
+          },
+          {
+            "name": "Mid-Minnesota Legal Aid",
+            "url": "https://mylegalaid.org/",
+            "blurb": "Free civil legal aid for eligible Minnesotans, including consumer and housing help. Check its site for the counties it serves."
+          },
+          {
+            "name": "Southern Minnesota Regional Legal Services",
+            "url": "https://www.smrls.org/",
+            "blurb": "Free civil legal services for eligible residents of its southern Minnesota service area."
+          }
+        ]
       }
     }
   },
@@ -424,6 +450,7 @@
     "https://www.lawhelpca.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-28; the State Bar of California's Free Legal Help page links to it.",
     "https://www.palawhelp.org/": "Server drops non-browser connections from the box (curl HTTP/2 CANCEL). Loaded fine with WebFetch on 2026-10-31; the Pennsylvania Legal Aid Network site links to it.",
     "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2262&Chapter=LIENS&ChapterID=63&MajorTopic=RIGHTS+AND+REMEDIES": "ilga.gov serves an incomplete TLS certificate chain, so the box's Python/curl can't verify it (browsers can). Loaded fine with WebFetch on 2026-11-01 showing the full 770 ILCS 95 text.",
-    "https://www.georgialegalaid.org/": "Server drops non-browser connections from the box (curl returns no response). Loaded fine with WebFetch on 2026-11-02; Atlanta Legal Aid and GLSP are the contacts it lists."
+    "https://www.georgialegalaid.org/": "Server drops non-browser connections from the box (curl returns no response). Loaded fine with WebFetch on 2026-11-02; Atlanta Legal Aid and GLSP are the contacts it lists.",
+    "https://mn.gov/commerce/money/unclaimed-property/": "mn.gov intermittently redirects scripted requests to a ShieldSquare bot check (HTTP 302 -> 500). Loaded fine from the box with curl on 2026-11-19 (HTTP 200, title 'Find Missing Money & Unclaimed Property / Minnesota Department of Commerce'), linking to unclaimedproperty.mn.gov."
   }
 }
