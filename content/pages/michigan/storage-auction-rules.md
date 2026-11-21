@@ -201,6 +201,6 @@ If you suffer damages because the owner didn't comply with the Act, you can sue 
 
 - **Rent increases:** the Act doesn't set a rent-increase notice period, so your agreement controls [[mi-act]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with neighboring [Ohio storage auction rules](/ohio/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/), plus [Minnesota storage auction rules](/minnesota/storage-auction-rules/).
+Compare with neighboring [Ohio storage auction rules](/ohio/storage-auction-rules/), [Indiana storage auction rules](/indiana/storage-auction-rules/) and [Illinois storage auction rules](/illinois/storage-auction-rules/), plus [Minnesota storage auction rules](/minnesota/storage-auction-rules/) and [Wisconsin storage auction rules](/wisconsin/storage-auction-rules/).
 
 {{partner-box}}

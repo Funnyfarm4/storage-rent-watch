@@ -209,6 +209,6 @@ The facility may pay its lien and reasonable expenses from the sale money, but m
 - **No living in units:** an occupant must not use a self-service storage facility for residential purposes [[mn-971]].
 - **Rent increases:** the act doesn't set a rent-increase notice period, so your agreement controls [[mn-970]]. See [My storage rent went up. What can I do?](/storage-rent-increase/)
 
-Compare with [Illinois storage auction rules](/illinois/storage-auction-rules/), [Michigan storage auction rules](/michigan/storage-auction-rules/) and [Colorado storage auction rules](/colorado/storage-auction-rules/).
+Compare with [Illinois storage auction rules](/illinois/storage-auction-rules/), [Michigan storage auction rules](/michigan/storage-auction-rules/), [Wisconsin storage auction rules](/wisconsin/storage-auction-rules/) and [Colorado storage auction rules](/colorado/storage-auction-rules/).
 
 {{partner-box}}

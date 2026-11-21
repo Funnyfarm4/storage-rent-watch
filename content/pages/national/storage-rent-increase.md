@@ -34,7 +34,7 @@
     }
   ],
   "published": "2026-10-27",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "last_checked": "2026-10-29",
   "sources": [
     {
@@ -50,6 +50,13 @@
       "title": "Minn. Stat. 514.970 to 514.979: Liens on Personal Property in Self-Service Storage (2026 Minnesota Statutes)",
       "url": "https://www.revisor.mn.gov/statutes/cite/514.970",
       "checked": "2026-11-19"
+    },
+    {
+      "id": "wi-90",
+      "publisher": "Wisconsin State Legislature",
+      "title": "Wis. Stat. 704.90: Self-service storage facilities (2023-24 Wisconsin Statutes, published 11-4-26)",
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/90",
+      "checked": "2026-11-20"
     },
     {
       "id": "ma-ch",
@@ -224,7 +231,7 @@ State storage laws mostly cover the facility's lien, late fees and lien sales, a
 Some states set a minimum notice period for changing a storage rental agreement:
 
 - **California:** the owner may change the terms, including rent, only after **at least 30 days' written notice** by personal delivery, first-class mail to your last known address, or agreed email. The new terms take effect after 30 days if you keep storing there [[ca-21715]]. See [California storage rent increases](/california/storage-rent-increase/) for the full notice rule and first-page disclosures, and [California storage auction rules](/california/storage-auction-rules/) for late-fee caps and lien sales.
-- **Arizona**, **Colorado**, **Florida**, **Georgia**, **Illinois**, **Indiana**, **Massachusetts**, **Minnesota**, **New York**, **North Carolina**, **Ohio**, **Pennsylvania** and **Texas:** their storage laws don't set a rent-increase notice period, so your agreement controls [[az-ch]] [[co-art]] [[fl-ch]] [[ga-act]] [[il-act]] [[in-ch]] [[ma-ch]] [[mn-act]] [[ny-182]] [[nc-art4]] [[oh-ch]] [[pa-ch56]] [[tx-ch]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Arizona storage auction rules](/arizona/storage-auction-rules/), [Colorado storage auction rules](/colorado/storage-auction-rules/), [Florida storage auction rules](/florida/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/), [Illinois storage auction rules](/illinois/storage-auction-rules/), [Massachusetts storage auction rules](/massachusetts/storage-auction-rules/), [Minnesota storage auction rules](/minnesota/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/), [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/) and [Texas storage auction rules](/texas/storage-auction-rules/).
+- **Arizona**, **Colorado**, **Florida**, **Georgia**, **Illinois**, **Indiana**, **Massachusetts**, **Minnesota**, **New York**, **North Carolina**, **Ohio**, **Pennsylvania**, **Texas** and **Wisconsin:** their storage laws don't set a rent-increase notice period, so your agreement controls [[az-ch]] [[co-art]] [[fl-ch]] [[ga-act]] [[il-act]] [[in-ch]] [[ma-ch]] [[mn-act]] [[ny-182]] [[nc-art4]] [[oh-ch]] [[pa-ch56]] [[tx-ch]] [[wi-90]]. New York does require your agreement to state the actual monthly charge and every other charge in dollars [[ny-182]]. See [Arizona storage auction rules](/arizona/storage-auction-rules/), [Colorado storage auction rules](/colorado/storage-auction-rules/), [Florida storage auction rules](/florida/storage-auction-rules/), [Georgia storage auction rules](/georgia/storage-auction-rules/), [Illinois storage auction rules](/illinois/storage-auction-rules/), [Massachusetts storage auction rules](/massachusetts/storage-auction-rules/), [Minnesota storage auction rules](/minnesota/storage-auction-rules/), [New York storage auction rules](/new-york/storage-auction-rules/), [North Carolina storage auction rules](/north-carolina/storage-auction-rules/), [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/), [Texas storage auction rules](/texas/storage-auction-rules/) and [Wisconsin storage auction rules](/wisconsin/storage-auction-rules/).
 
 We're adding more states. Check your state's page from the [home page](/).
 
@@ -232,7 +239,7 @@ We're adding more states. Check your state's page from the [home page](/).
 
 Don't withhold rent to protest. Unpaid rent is a default, and it costs money fast:
 
-- **Late fees:** Indiana allows up to the greater of $20 or 20% of monthly rent for each month in default [[in-115]]. Ohio allows a reasonable late fee stated in the agreement, but none if you pay in full by the third day after the due date [[oh-05]]. Florida treats a late fee of $20 or 20% of monthly rent, whichever is greater, as reasonable, if the fee is stated in your agreement [[fl-808]]. Pennsylvania treats the same $20-or-20% fee as reasonable if the agreement discloses it, but allows no late fee if you pay in full by the fifth day after the due date [[pa-ch56]]. Illinois also treats $20 or 20% of monthly rent as reasonable, but allows no late fee unless rent is unpaid for at least 5 days after the due date [[il-act]]. Georgia caps late fees at $20 or 20% of monthly rent per month, whichever is greater [[ga-act]].
+- **Late fees:** Indiana allows up to the greater of $20 or 20% of monthly rent for each month in default [[in-115]]. Ohio allows a reasonable late fee stated in the agreement, but none if you pay in full by the third day after the due date [[oh-05]]. Florida treats a late fee of $20 or 20% of monthly rent, whichever is greater, as reasonable, if the fee is stated in your agreement [[fl-808]]. Pennsylvania treats the same $20-or-20% fee as reasonable if the agreement discloses it, but allows no late fee if you pay in full by the fifth day after the due date [[pa-ch56]]. Illinois also treats $20 or 20% of monthly rent as reasonable, but allows no late fee unless rent is unpaid for at least 5 days after the due date [[il-act]]. Georgia caps late fees at $20 or 20% of monthly rent per month, whichever is greater [[ga-act]]. Wisconsin presumes a monthly late fee of $20 or 20% of monthly rent, whichever is greater, reasonable if it's in your agreement and rent is unpaid 5 days after the due date; a higher fee is allowed only if the operator proves it's reasonable [[wi-90]].
 - **Lockout and sale:** in Indiana, a facility can start enforcing its lien after 5 days of continuous default [[in-12]]. In Ohio, the lien notice can demand payment in as little as 10 days [[oh-03]].
 
 ## Step 4: Negotiate

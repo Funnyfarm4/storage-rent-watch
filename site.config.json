@@ -26,7 +26,8 @@
     "AZ": "Arizona",
     "MA": "Massachusetts",
     "CO": "Colorado",
-    "MN": "Minnesota"
+    "MN": "Minnesota",
+    "WI": "Wisconsin"
   },
   "affiliates": {
     "sparefoot": {
@@ -55,7 +56,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-19",
+    "checked": "2026-11-20",
     "national": [
       {
         "name": "LawHelp.org",
@@ -432,6 +433,21 @@
             "name": "Southern Minnesota Regional Legal Services",
             "url": "https://www.smrls.org/",
             "blurb": "Free civil legal services for eligible residents of its southern Minnesota service area."
+          }
+        ]
+      },
+      "WI": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Legal Action of Wisconsin",
+            "url": "https://legalaction.org/",
+            "blurb": "Wisconsin's statewide civil legal aid nonprofit (merged with Judicare Legal Aid on January 1, 2026). Apply online or call for free legal help if you qualify."
+          },
+          {
+            "name": "Wisconsin Court System Self-Help Law Center",
+            "url": "https://www.wicourts.gov/services/public/selfhelp/index.htm",
+            "blurb": "Free self-help information and court forms from Wisconsin's courts, plus help finding legal assistance."
           }
         ]
       }
