@@ -168,6 +168,6 @@ Within that year, ask the owner in writing for the balance. After that, search a
 - **Owner entry:** on reasonable request you must let the owner in for inspection, repairs or services; in an emergency it may enter without notice [[tn-103]].
 - **Identity theft:** the owner isn't liable for misuse of information in documents or storage media sold with your property if it didn't actually know about them [[tn-105]]. Remove papers and drives with personal information if you can.
 
-Compare with neighboring [Georgia storage auction rules](/georgia/storage-auction-rules/), [North Carolina storage auction rules](/north-carolina/storage-auction-rules/) and [Virginia storage auction rules](/virginia/storage-auction-rules/).
+Compare with neighboring [Georgia storage auction rules](/georgia/storage-auction-rules/), [North Carolina storage auction rules](/north-carolina/storage-auction-rules/) [Virginia storage auction rules](/virginia/storage-auction-rules/) and [Missouri storage auction rules](/missouri/storage-auction-rules/).
 
 {{partner-box}}

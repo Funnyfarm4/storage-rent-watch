@@ -149,6 +149,11 @@
       "url_path": "/wisconsin/storage-auction-rules/",
       "published": "2026-11-20",
       "statute": "Wis. Stat. 704.90"
+    },
+    {
+      "url_path": "/missouri/storage-auction-rules/",
+      "published": "2026-11-21",
+      "statute": "RSMo 415.400 to 415.425"
     }
   ],
   "queue": [
@@ -1162,7 +1167,9 @@
       "start_with_statute": "RSMo 415.400 to 415.425 (verify)",
       "official_text_at": "revisor.mo.gov",
       "legal_aid_to_verify": "Legal Services of Eastern Missouri; Legal Aid of Western Missouri; a statewide Missouri legal aid site (find and verify); ABA Free Legal Answers participation (check)",
-      "status": "queued"
+      "status": "published",
+      "published_url": "/missouri/storage-auction-rules/",
+      "verified_note": "Verified 2026-11-21 on revisor.mo.gov (all sections eff. 2014-08-28): Self-Service Storage Facilities Act is RSMo 415.400-415.425, including 415.417 late fees ($20/20% deemed reasonable). Sale only after >45 days default; 1st notice >=45 days before sale (runs concurrently); 2nd notice >=10 days after 1st, >=10 days to pay; classified newspaper ad >=7 days before sale; vehicles/boats/trailers towable after 60 days unpaid; surplus held 1 year (sworn affidavit required) then to State Treasurer. Act sets no rent-increase notice period, no minimum bidders, no penalty/private-action section (left out). Legal aid added: lsmo.org (statewide Missouri Legal Services portal), lsem.org, lawmo.org (202 sgcaptcha to curl but loaded via WebFetch), mmls.org. Legal Services of Southern Missouri (lsosm.org) returned HTTP 500 today: not added, re-check. msmo.org is a parked domain (NOT MMLS). MO IS an ABA Free Legal Answers participating state (missouri.freelegalanswers.org)."
     },
     {
       "n": 73,
@@ -1190,6 +1197,46 @@
       "primary_keyword": "cheap storage units milwaukee",
       "note": "WI auction-rules page is live (late fee presumption $20 or 20%, Wis. Stat. 704.90(4b)). No prices unless an official source states them.",
       "status": "queued"
+    },
+    {
+      "priority": "normal",
+      "scope": "state",
+      "state": "MO",
+      "topic": "stop-auction",
+      "slug": "stop-storage-auction",
+      "working_title": "How to Stop a Storage Unit Auction in Missouri (and Claim Leftover Money Within 1 Year)",
+      "primary_keyword": "stop storage auction missouri",
+      "start_with_statute": "RSMo 415.415(3), (6) and 415.420(1) (verified 2026-11-21, re-fetch)",
+      "official_text_at": "revisor.mo.gov",
+      "legal_aid_to_verify": "MO already in legal_help (added 2026-11-21); re-check lsosm.org (500 on 2026-11-21)",
+      "status": "queued",
+      "n": 75
+    },
+    {
+      "priority": "normal",
+      "scope": "city",
+      "state": "MO",
+      "city": "Kansas City",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in Kansas City: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units kansas city",
+      "note": "MO auction page is live; cite RSMo 415.417 $20/20% late-fee rule and 415.420(3) lockout. City slug must not collide with a state slug (use kansas-city). No prices unless an official source states them.",
+      "status": "queued",
+      "n": 76
+    },
+    {
+      "priority": "normal",
+      "scope": "city",
+      "state": "MO",
+      "city": "St. Louis",
+      "topic": "cheap-storage",
+      "slug": "cheap-storage",
+      "working_title": "Cheap Storage in St. Louis: How to Avoid Teaser-Rate Traps and Cut Your Bill",
+      "primary_keyword": "cheap storage units st louis",
+      "note": "MO auction page is live; cite RSMo 415.417 late fees. No prices unless an official source states them.",
+      "status": "queued",
+      "n": 77
     }
   ]
 }

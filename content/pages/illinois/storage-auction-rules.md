@@ -169,6 +169,6 @@ The owner can end or not renew your rental agreement by written notice delivered
 
 If your rental agreement caps the value of what you can store, the cap counts as the maximum value of your property, but only if that clause is printed in bold type or underlined [[il-75]]. Only the occupant named on the last rental agreement can sue for damages for a violation of the Act [[il-75]].
 
-Compare with neighboring [Indiana storage auction rules](/indiana/storage-auction-rules/), [Michigan storage auction rules](/michigan/storage-auction-rules/) and [Wisconsin storage auction rules](/wisconsin/storage-auction-rules/), plus [Minnesota storage auction rules](/minnesota/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/). If your rent went up, see [what to do when your storage rent goes up](/storage-rent-increase/).
+Compare with neighboring [Indiana storage auction rules](/indiana/storage-auction-rules/), [Michigan storage auction rules](/michigan/storage-auction-rules/) [Wisconsin storage auction rules](/wisconsin/storage-auction-rules/) and [Missouri storage auction rules](/missouri/storage-auction-rules/), plus [Minnesota storage auction rules](/minnesota/storage-auction-rules/), [Ohio storage auction rules](/ohio/storage-auction-rules/) and [Pennsylvania storage auction rules](/pennsylvania/storage-auction-rules/). If your rent went up, see [what to do when your storage rent goes up](/storage-rent-increase/).
 
 {{partner-box}}

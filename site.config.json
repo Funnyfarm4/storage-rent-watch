@@ -27,7 +27,8 @@
     "MA": "Massachusetts",
     "CO": "Colorado",
     "MN": "Minnesota",
-    "WI": "Wisconsin"
+    "WI": "Wisconsin",
+    "MO": "Missouri"
   },
   "affiliates": {
     "sparefoot": {
@@ -56,7 +57,7 @@
     }
   },
   "legal_help": {
-    "checked": "2026-11-20",
+    "checked": "2026-11-21",
     "national": [
       {
         "name": "LawHelp.org",
@@ -448,6 +449,31 @@
             "name": "Wisconsin Court System Self-Help Law Center",
             "url": "https://www.wicourts.gov/services/public/selfhelp/index.htm",
             "blurb": "Free self-help information and court forms from Wisconsin's courts, plus help finding legal assistance."
+          }
+        ]
+      },
+      "MO": {
+        "aba_free_legal_answers": true,
+        "links": [
+          {
+            "name": "Missouri Legal Services",
+            "url": "https://www.lsmo.org/",
+            "blurb": "Statewide site of Missouri's four legal aid programs. Find which program serves your county and apply for free legal help if you qualify."
+          },
+          {
+            "name": "Legal Services of Eastern Missouri",
+            "url": "https://lsem.org/",
+            "blurb": "Free civil legal help for eligible residents of St. Louis and eastern Missouri, including a consumer law program."
+          },
+          {
+            "name": "Legal Aid of Western Missouri",
+            "url": "https://www.lawmo.org/",
+            "blurb": "Free civil legal help, including consumer and housing law, for eligible residents of 40 western Missouri counties (Kansas City, Joplin, St. Joseph and more)."
+          },
+          {
+            "name": "Mid-Missouri Legal Services",
+            "url": "https://mmls.org/",
+            "blurb": "Free legal advice and representation, including consumer law, for low-income residents of its mid-Missouri service area."
           }
         ]
       }
